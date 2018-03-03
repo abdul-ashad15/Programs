@@ -1,0 +1,11 @@
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.xml
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.dll
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.pdb
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\b\WebDX.Api.dll
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\b\WebDX.Api.pdb
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\o\f.csprojResolveAssemblyReference.cache
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\o\WebDX.Api.Fakes.dll
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\obj\Debug\Fakes\wdxa\o\WebDX.Api.Fakes.pdb

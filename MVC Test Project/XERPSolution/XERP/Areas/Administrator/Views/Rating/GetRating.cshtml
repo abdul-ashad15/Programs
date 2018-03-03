@@ -1,0 +1,60 @@
+﻿@model XEPR.Models.tblRating
+
+@{
+    ViewBag.Title = "GetRating";
+}
+
+<h2>Rating Details</h2>
+
+<style>
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: auto;
+}
+
+th {
+    height: 50px;
+}
+</style>
+
+<table  style="font-weight:bold;" >
+    <tr >
+        <td >RatingText</td>
+        <td > @Html.DisplayFor(model => model.RatingText)</td>
+
+    </tr>
+
+    <tr>
+        <td>RatingValue</td>
+        <td> @Html.DisplayFor(model => model.RatingValue)</td>
+
+    </tr>
+   
+    <tr>
+        <td>Description</td>
+        <td> @Html.DisplayFor(model => model.Description)</td>
+
+    </tr>
+    <tr>
+        <td>Created By</td>
+        <td> @Html.DisplayFor(model => model.CreatedBy)</td>
+     </tr>
+
+    <tr>
+     <td>Created Date</td>
+     <td>@Html.DisplayFor(model => model.CreatedDateTime)</td>
+    </tr>
+
+    <tr>
+     <td>Modified Date</td>
+     <td>@Html.DisplayFor(model => model.ModifiedDateTime)</td>
+    </tr>
+</table>
+
+<p>
+    @Html.ActionLink("Back To Rating List", "GetRatingList", "Rating" ,new { area="Administrator"},null)
+</p>

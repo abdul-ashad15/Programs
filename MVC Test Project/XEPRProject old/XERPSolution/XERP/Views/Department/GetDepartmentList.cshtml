@@ -1,0 +1,68 @@
+﻿@model IEnumerable<XEPR.Models.tblDepartment>
+
+@{
+    ViewBag.Title = "Department List";
+}
+
+<h2>Department List View</h2>
+
+<p>
+    @Html.ActionLink("Create New Department", "CreateDepartment", "Department")
+</p>
+<table border="1">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DepartmentName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedDateTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ModifiedDateTime)
+        </th>
+        <th>Edit</th>
+        <th>Details</th>
+        <th>Delete</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartmentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedBy)
+            </td>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedDateTime)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "ModifyDepartment", new { id = item.DepartmentId })
+            </td>
+            <td>
+                @Html.ActionLink("Details", "GetDepartment", new { id = item.DepartmentId })
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "DeleteDepartment", new { id = item.DepartmentId }, new { onclick="return confirm('Are you sure to delete record?');" })
+            </td>
+        </tr>
+    }
+
+</table>
+<div>
+    @Html.ActionLink("Back to Home Page", "AdminPage","Home")
+</div>

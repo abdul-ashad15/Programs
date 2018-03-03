@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="XEPRModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="XEPREntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="tblAdmins" EntityType="XEPRModel.tblAdmin" />
+    <EntitySet Name="tblAssessments" EntityType="XEPRModel.tblAssessment" />
+    <EntitySet Name="tblAssessmentDetails" EntityType="XEPRModel.tblAssessmentDetail" />
+    <EntitySet Name="tblDepartments" EntityType="XEPRModel.tblDepartment" />
+    <EntitySet Name="tblRatings" EntityType="XEPRModel.tblRating" />
+    <EntitySet Name="tblSubmitAssessments" EntityType="XEPRModel.tblSubmitAssessment" />
+    <EntitySet Name="tblCities" EntityType="XEPRModel.tblCity" />
+    <EntitySet Name="tblCountries" EntityType="XEPRModel.tblCountry" />
+    <EntitySet Name="tblStates" EntityType="XEPRModel.tblState" />
+    <EntitySet Name="tblEmployees" EntityType="XEPRModel.tblEmployee" />
+    <EntitySet Name="tblManagers" EntityType="XEPRModel.tblManager" />
+  </EntityContainer>
+  <EntityType Name="tblAdmin">
+    <Key>
+      <PropertyRef Name="UserName" />
+      <PropertyRef Name="Password" />
+    </Key>
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="tblAssessment">
+    <Key>
+      <PropertyRef Name="AssessmentId" />
+    </Key>
+    <Property Name="AssessmentId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="AssessmentTitle" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="CreatedBy" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CreatedDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ModifiedDateTime" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblAssessmentDetail">
+    <Key>
+      <PropertyRef Name="AssessmentDetailId" />
+    </Key>
+    <Property Name="AssessmentDetailId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="AssessmentId" Type="Int32" Nullable="false" />
+    <Property Name="RatingId" Type="Int32" Nullable="false" />
+    <Property Name="Comment" Type="String" Nullable="false" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="CreatedDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ModifiedDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Type="String" Name="Manager_Comment" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="Manager_RatingId" />
+    <Property Type="String" Name="EmpWinId" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ManagerWinId" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblDepartment">
+    <Key>
+      <PropertyRef Name="DepartmentId" />
+    </Key>
+    <Property Name="DepartmentId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="DepartmentName" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="IsSelected" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedBy" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CreatedDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ModifiedDateTime" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblRating">
+    <Key>
+      <PropertyRef Name="RatingId" />
+    </Key>
+    <Property Name="RatingId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="RatingText" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="RatingValue" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="Description" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="IsSelected" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedBy" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CreatedDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ModifiedDateTime" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblSubmitAssessment">
+    <Key>
+      <PropertyRef Name="SubmitAssessmentId" />
+    </Key>
+    <Property Name="SubmitAssessmentId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="EmpWinId" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ManagerWinId" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="IsEmployeeSubmitted" Type="Boolean" Nullable="false" />
+    <Property Name="IsManagerSubmitted" Type="Boolean" Nullable="false" />
+    <Property Name="SubmittedDateByEmployee" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="SubmittedDateByManager" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblCity">
+    <Key>
+      <PropertyRef Name="CityId" />
+    </Key>
+    <Property Type="Int32" Name="CityId" Nullable="false" />
+    <Property Type="Int32" Name="StateId" Nullable="false" />
+    <Property Type="String" Name="CityName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblCountry">
+    <Key>
+      <PropertyRef Name="CountryId" />
+    </Key>
+    <Property Type="Int32" Name="CountryId" Nullable="false" />
+    <Property Type="String" Name="CountryName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblState">
+    <Key>
+      <PropertyRef Name="StateId" />
+    </Key>
+    <Property Type="Int32" Name="StateId" Nullable="false" />
+    <Property Type="Int32" Name="CountryId" Nullable="false" />
+    <Property Type="String" Name="StateName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblEmployee">
+    <Key>
+      <PropertyRef Name="EmployeeId" />
+    </Key>
+    <Property Type="Int32" Name="EmployeeId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="EmpWinId" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ManagerWinId" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="LastName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="DOB" Nullable="false" Precision="3" />
+    <Property Type="String" Name="Gender" Nullable="false" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Type="DateTime" Name="DOJ" Nullable="false" Precision="3" />
+    <Property Type="Int32" Name="DepartmentId" Nullable="false" />
+    <Property Type="Int32" Name="CityId" Nullable="false" />
+    <Property Type="Int32" Name="CountryId" Nullable="false" />
+    <Property Type="Int32" Name="StateId" Nullable="false" />
+    <Property Type="String" Name="Address" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="EmailAddress" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int64" Name="MobileNo" Nullable="false" />
+    <Property Type="String" Name="CreatedBy" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="CreatedDateTime" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="ModifiedDateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblManager">
+    <Key>
+      <PropertyRef Name="ManagerId" />
+    </Key>
+    <Property Type="Int32" Name="ManagerId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ManagerWinId" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="LastName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="DOB" Nullable="false" Precision="3" />
+    <Property Type="String" Name="Gender" Nullable="false" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Type="DateTime" Name="DOJ" Nullable="false" Precision="3" />
+    <Property Type="Int32" Name="CityId" Nullable="false" />
+    <Property Type="Int32" Name="CountryId" Nullable="false" />
+    <Property Type="Int32" Name="StateId" Nullable="false" />
+    <Property Type="String" Name="Address" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="EmailAddress" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int64" Name="MobileNo" Nullable="false" />
+    <Property Type="Int32" Name="DepartmentId" Nullable="false" />
+    <Property Type="String" Name="CreatedBy" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="CreatedDateTime" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="ModifiedDateTime" Nullable="false" Precision="3" />
+  </EntityType>
+</Schema>

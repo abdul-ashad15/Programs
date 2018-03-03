@@ -1,0 +1,181 @@
+﻿@model XEPR.Models.tblManager
+
+@{
+    ViewBag.Title = "ModifyManager";
+}
+
+<h2>Modify Manager</h2>
+
+@using (Html.BeginForm())
+{
+    
+   if (Model != null )
+    {
+    <fieldset>
+        <legend>tblManager</legend>       
+        <table>
+            <tr><td> @Html.HiddenFor(model => model.ManagerId)
+                @Html.HiddenFor(model => model.ManagerWinId)
+                </td></tr>
+            <tr>                
+                <td>
+                   @Html.LabelFor(model => model.ManagerWinId)
+                </td>
+                <td>
+                     @Html.DisplayFor(model => model.ManagerWinId)
+                     @Html.ValidationMessageFor(model => model.ManagerWinId)
+                </td>
+                  <td>
+                   @Html.LabelFor(model => model.FirstName)
+                </td>
+                <td>
+                       @Html.EditorFor(model => model.FirstName)
+                       @Html.ValidationMessageFor(model => model.FirstName)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                 @Html.LabelFor(model => model.LastName)
+                </td>
+                <td>
+                     @Html.EditorFor(model => model.LastName)
+                     @Html.ValidationMessageFor(model => model.LastName)
+                </td>
+                  <td>
+                    @Html.LabelFor(model => model.DOB)
+                </td>
+                <td>
+                       @Html.EditorFor(model => model.DOB)
+                       @Html.ValidationMessageFor(model => model.DOB)
+                </td>
+            </tr>
+             <tr>
+                <td>
+                  @Html.LabelFor(model => model.Gender)
+                </td>
+                <td>
+                 @*  @Html.DropDownList("Gender", new List<SelectListItem>
+                    {
+                           new SelectListItem{Text="Male",Value="Male"},
+                           new SelectListItem{Text="Female",Value="Female"}
+                    }, "Select Gender", new { @class = "dropdown" })*@
+                    @Html.DropDownListFor(model => model.Gender, (IEnumerable<SelectListItem>)ViewBag.GenderList)
+
+                    @Html.ValidationMessageFor(model => model.Gender)
+                </td>
+                  <td>
+                   @Html.LabelFor(model => model.DOJ)
+                </td>
+                <td>
+                       @Html.EditorFor(model => model.DOJ)
+                       @Html.ValidationMessageFor(model => model.DOJ)
+                </td>
+            </tr>
+
+             <tr>
+                <td> @Html.LabelFor(model => model.CountryId) </td>
+                     <td>
+                   @Html.DropDownListFor(model => model.CountryId, (IEnumerable<SelectListItem>)ViewBag.Country,"Select Country")
+                    @Html.ValidationMessageFor(model => model.CountryId,"*")</td>          
+
+            </tr>
+            <tr>
+                <td> @Html.LabelFor(model => model.StateId) </td>
+                <td>
+                  @Html.DropDownListFor(model => model.StateId, (IEnumerable<SelectListItem>)ViewBag.State,"Select State")
+                  @Html.ValidationMessageFor(model => model.StateId,"*")</td>             
+            </tr>
+            <tr>
+                <td> @Html.LabelFor(model => model.CityId)</td>
+                <td>
+                  @Html.DropDownListFor(model => model.CityId, (IEnumerable<SelectListItem>)ViewBag.City,"Select City")
+                 @Html.ValidationMessageFor(model => model.CityId,"*")</td>              
+            </tr>
+            <tr>
+                  <td>
+                   @Html.LabelFor(model => model.Address)
+                </td>
+                <td>
+                    @Html.TextAreaFor(model => model.Address, new { cols = 5, @rows = 3 })
+                    @Html.ValidationMessageFor(model => model.Address)
+                </td>               
+                  <td>
+                     @Html.LabelFor(model => model.EmailAddress)
+                </td>
+                <td>
+                       @Html.EditorFor(model => model.EmailAddress)
+                       @Html.ValidationMessageFor(model => model.EmailAddress)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                   @Html.LabelFor(model => model.MobileNo)
+                </td>
+                 <td>
+                    @Html.TextBoxFor(model => model.MobileNo)
+                    @Html.ValidationMessageFor(model => model.MobileNo)
+                </td>
+                  <td>
+                      @Html.LabelFor(model => model.DepartmentId)
+                </td>
+                <td>
+                    @Html.DropDownListFor(model => model.DepartmentId, (IEnumerable<SelectListItem>)ViewBag.DepartmentList)                      
+                </td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Save"/></td>
+            </tr>
+        </table>
+        @Html.ValidationSummary(false,"Please fix  displayed issues")
+    </fieldset>
+}
+}
+
+<div>
+   @Html.ActionLink("Back to Manager List", "GetManagerList","Manager")
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#DOB").datepicker({ dateFormat: 'mm-dd-yy' });
+        $("#DOJ").datepicker({ dateFormat: 'mm-dd-yy' });
+
+        $("#CountryId").change(function () {
+            var Id = $("#CountryId").val();  //if user select the tournament 
+            //var url = 'PersonalInfo/BindState';
+            var url = '@Url.Action("BindState", "Manager")'
+            var data1 = { "CountryId": Id };
+            $.post(url, data1, function (data) {    //ajax call
+                var items = [];
+                items.push("<option value=''>" + "Select State" + "</option>"); //first item
+                for (var i = 0; i < data.length; i++) {
+                    items.push("<option value=" + data[i].Value + ">" + data[i].Text + "</option>");
+                }                                         //all data from the team table push in Cto array
+                $("#StateId").html(items.join(' '));
+
+            });                                            //array object bind to dropdown list
+        });
+
+        $("#StateId").change(function () {
+            var Id = $("#StateId").val();
+            var url = '@Url.Action("BindCity", "Manager")'
+            var data1 = { "StateId": Id };
+            $.post(url, data1, function (data) {    //ajax call
+                var items = [];
+                items.push("<option value=''>" + "Select City" + "</option>"); //first item
+                for (var i = 0; i < data.length; i++) {
+                    items.push("<option value=" + data[i].Value + ">" + data[i].Text + "</option>");
+                }                                         //all data from the team table push into array
+                $("#CityId").html(items.join(' '));
+
+            });                                            //array object bind to dropdown list
+
+        });
+
+    });
+
+</script>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

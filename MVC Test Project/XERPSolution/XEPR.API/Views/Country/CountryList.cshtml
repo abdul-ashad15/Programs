@@ -1,0 +1,99 @@
+﻿@model XEPR.API.Models.clsCountry
+
+@{
+    ViewBag.Title = "CountryList";
+}
+
+<h2>Country List</h2>
+<script src="~/Scripts/jquery-1.7.1.min.js"></script>
+
+<script language="javascript" type="text/javascript">
+
+    function GetAllCountryLis() {
+        $.ajax({
+            type: "GET", url: "http://localhost/XEPR.API/api/Values",
+            dataType: "json",
+            success: function (data) {
+                debugger;
+                var datavalue = data;
+                var myJsonObject = datavalue;
+                contentType: "application/json";
+                $.each(myJsonObject, function (i, mobj) {
+                    $("#Countrytbl").append('<tr><td>' + mobj.CountryName + '</td></tr>');
+                });
+            },
+            error: function (xhr) {
+                alert(xhr.responseText);
+            }
+        });
+    }
+
+    function UpdateCountry() {
+
+        var CountryDetails =
+       {
+           CountryName: "US",
+       };
+
+        $.ajax({
+            type: "POST",
+            data: JSON.stringify(CountryDetails),
+            url: "http://localhost/XEPR.API/api/Values",
+            dataType: "json",
+            contentType: "application/json",
+        });
+    }
+
+    function GetCountryById() {
+        var id = 1;
+        $.ajax({
+            type: "GET", url: 'http://localhost/XEPR.API/api/Values/' + id,
+            dataType: "json",
+            success: function (data) {
+                debugger;
+                var datavalue = data;
+                var myJsonObject = datavalue;
+
+                var _countryName = myJsonObject[0].CountryName
+
+                contentType: "application/json";
+                $.each(myJsonObject, function (i, mobj) {
+                    $("#Countrytbl").append('<tr><td>' + _countryName + '</td></tr>');
+                });
+            },
+            error: function (xhr) {
+                alert(xhr.responseText);
+            }
+        });
+    }
+
+    function DeleteCountryById(countryName) {
+        var id = countryName;
+        $.ajax({
+            type: "DELETE",
+            url: 'http://localhost/XEPR.API/api/Values/' + id,
+            data: {id: 1},
+            dataType: "json",
+            success: function (data) {
+            },
+            error: function (xhr) {
+                alert('Problem in deleting Country:' + xhr.responseText);
+            }
+        });
+    }
+
+
+</script>
+
+<div style="text-align: center;">
+    <table border="1" width="70%" style="color: chocolate" id="Countrytbl">
+        <tr>
+            <td>
+                <input id="btnget" type="button" onclick="GetAllCountryLis();" value="List All Country" />
+                <input id="btngetById" type="button" onclick="GetCountryById();" value="Get By ID" />
+                <input id="btngetUpdate" type="button" onclick="UpdateCountry();" value="Update Country" />
+                <input id="btnDelete" type="button" onclick='DeleteCountryById(1);' value="Delete Country" />
+            </td>
+        </tr>
+    </table>
+</div>

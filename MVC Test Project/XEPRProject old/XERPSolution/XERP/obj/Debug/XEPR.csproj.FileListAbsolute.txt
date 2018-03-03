@@ -1,0 +1,147 @@
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\XERP.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\XERP.pdb
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\Antlr3.Runtime.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.AspNet.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.Core.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\EntityFramework.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\Microsoft.Web.Infrastructure.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\Newtonsoft.Json.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Net.Http.Formatting.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Helpers.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Http.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Http.WebHost.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Mvc.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Optimization.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Razor.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.Deployment.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.Razor.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\WebGrease.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\WebMatrix.Data.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\WebMatrix.WebData.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\EntityFramework.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\Newtonsoft.Json.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Net.Http.Formatting.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Helpers.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Http.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Http.WebHost.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Mvc.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.Razor.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.Deployment.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.Razor.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\WebMatrix.Data.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\WebMatrix.WebData.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.AspNet.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.Core.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP\obj\Debug\XEPR.csprojResolveAssemblyReference.cache
+E:\XAPI\XEPRProject\XERPSolution\XERP\obj\Debug\XERP.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP\obj\Debug\XERP.pdb
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\XERP.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\XERP.pdb
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\Antlr3.Runtime.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.AspNet.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.Core.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\EntityFramework.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\Newtonsoft.Json.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Net.Http.Formatting.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Helpers.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Http.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Http.WebHost.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Mvc.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Optimization.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Razor.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.Deployment.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.Razor.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\WebGrease.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\WebMatrix.Data.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\WebMatrix.WebData.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\EntityFramework.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\Newtonsoft.Json.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Net.Http.Formatting.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Helpers.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Http.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Http.WebHost.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Mvc.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.Razor.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.Deployment.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\System.Web.WebPages.Razor.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\WebMatrix.Data.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\WebMatrix.WebData.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.AspNet.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.Core.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\obj\Debug\XERP.dll
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\obj\Debug\XERP.pdb
+D:\MVC Work\SampleProject\XEPRProject\XERPSolution\XERP\obj\Debug\XEPR.csprojResolveAssemblyReference.cache
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\XERP.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\XERP.pdb
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\Antlr3.Runtime.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.AspNet.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.Core.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\EntityFramework.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\Microsoft.Web.Infrastructure.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\Newtonsoft.Json.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Net.Http.Formatting.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Helpers.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Http.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Http.WebHost.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Mvc.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Optimization.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Razor.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.WebPages.Deployment.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.WebPages.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.WebPages.Razor.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\WebGrease.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\WebMatrix.Data.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\WebMatrix.WebData.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\EntityFramework.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\Newtonsoft.Json.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Net.Http.Formatting.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Helpers.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Http.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Http.WebHost.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Mvc.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.Razor.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.WebPages.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.WebPages.Deployment.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\System.Web.WebPages.Razor.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\WebMatrix.Data.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\WebMatrix.WebData.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.AspNet.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.Core.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.OAuth.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\obj\Debug\XEPR.csprojResolveAssemblyReference.cache
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\obj\Debug\XERP.dll
+D:\A. TRAINING\MVC Work\SampleProject\XEPRProject old\XERPSolution\XERP\obj\Debug\XERP.pdb

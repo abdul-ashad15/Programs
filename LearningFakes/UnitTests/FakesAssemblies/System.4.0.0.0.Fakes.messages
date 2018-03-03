@@ -1,0 +1,488 @@
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Text.RegularExpressions.MatchEvaluator: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Text.RegularExpressions.Capture: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Text.RegularExpressions.CaptureCollection: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Text.RegularExpressions.Group: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Text.RegularExpressions.GroupCollection: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Text.RegularExpressions.Match: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Text.RegularExpressions.MatchCollection: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Text.RegularExpressions.RegexOptions: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.CodeBinaryOperatorType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.CodeRegionMode: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.CodeTypeReferenceOptions: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.FieldDirection: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.MemberAttributes: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.AddingNewEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.AmbientValueAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.AsyncCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.AsyncOperation: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.AsyncOperationManager: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.BindableAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.BindableSupport: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.BindingDirection: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.BrowsableAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.CancelEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.CollectionChangeAction: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.CollectionChangeEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ComplexBindingPropertiesAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DataObjectAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DataObjectFieldAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DataObjectMethodAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DataObjectMethodType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DefaultBindingPropertyAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DefaultEventAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DefaultPropertyAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DesignerAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DesignerCategoryAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DesignerSerializationVisibility: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DesignerSerializationVisibilityAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DesignOnlyAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DesignTimeVisibleAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.DoWorkEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.EditorAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.EditorBrowsableAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.EditorBrowsableState: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.EventHandlerList: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ExtenderProvidedPropertyAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.HandledEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.IComNativeDescriptorHandler: type is obsolete.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ImmutableObjectAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.InitializationEventAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.LicenseManager: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.LicenseProviderAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.LicenseUsageMode: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ListBindableAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ListChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ListChangedType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ListSortDirection: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.LocalizableAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.LookupBindingPropertiesAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.MaskedTextResultHint: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.MergablePropertyAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.PasswordPropertyTextAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ProgressChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.PropertyChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.PropertyChangingEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ProvidePropertyAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ReadOnlyAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.RecommendedAsConfigurableAttribute: type is obsolete.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.RefreshEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.RunWorkerCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.SettingsBindableAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.SyntaxCheck: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ToolboxItemFilterAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ToolboxItemFilterType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.TypeConverterAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.TypeDescriptionProviderAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.TypeDescriptor: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.ActiveDesignerEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.ComponentChangedEventArgs: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.ComponentChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.ComponentChangingEventArgs: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.ComponentChangingEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.ComponentEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.ComponentRenameEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.DesignerTransactionCloseEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.DesigntimeLicenseContextSerializer: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.DesignerEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.HelpContextType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.HelpKeywordAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.HelpKeywordType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.InheritanceAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.InheritanceLevel: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.IResourceService: method System.Resources.IResourceReader System.ComponentModel.Design.IResourceService.GetResourceReader(System.Globalization.CultureInfo info) unstubbable: method is abstract and could not be stubbed, type System.Globalization.CultureInfo is not available in the target framework version.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.NotifyParentPropertyAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.ParenthesizePropertyNameAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.PropertyTabScope: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.RefreshProperties: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.RefreshPropertiesAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.SelectionTypes: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.ServiceCreatorCallback: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.ViewTechnology: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.Serialization.ComponentSerializationService: method System.ComponentModel.Design.Serialization.SerializationStore System.ComponentModel.Design.Serialization.ComponentSerializationService.LoadStore(System.IO.Stream stream) unstubbable: method is abstract and could not be stubbed, type System.IO.Stream is not available in the target framework version.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.Serialization.ContextStack: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.Serialization.DefaultSerializationProviderAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.Serialization.DesignerSerializerAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.Serialization.InstanceDescriptor: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.Serialization.MemberRelationship: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.Serialization.ResolveNameEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.Serialization.RootDesignerSerializerAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.ComponentModel.Design.Serialization.SerializationStore: method System.Void System.ComponentModel.Design.Serialization.SerializationStore.Save(System.IO.Stream stream) unstubbable: method is abstract and could not be stubbed, type System.IO.Stream is not available in the target framework version.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.CorrelationManager: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.Debug: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.SourceLevels: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.SwitchAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.SwitchLevelAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.Trace: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.TraceEventType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.TraceLevel: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.TraceListenerCollection: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.TraceOptions: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.Compiler.ICodeGenerator: method System.Void System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit e, System.IO.TextWriter w, System.CodeDom.Compiler.CodeGeneratorOptions o) unstubbable: method is abstract and could not be stubbed, type System.IO.TextWriter is not available in the target framework version.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.Compiler.ICodeParser: method System.CodeDom.CodeCompileUnit System.CodeDom.Compiler.ICodeParser.Parse(System.IO.TextReader codeStream) unstubbable: method is abstract and could not be stubbed, type System.IO.TextReader is not available in the target framework version.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.Compiler.CodeParser: method System.CodeDom.CodeCompileUnit System.CodeDom.Compiler.CodeParser.Parse(System.IO.TextReader codeStream) unstubbable: method is abstract and could not be stubbed, type System.IO.TextReader is not available in the target framework version.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.Compiler.CompilerInfo: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.Compiler.Executor: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.Compiler.GeneratedCodeAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.Compiler.GeneratorSupport: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.Compiler.IndentedTextWriter: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.CodeDom.Compiler.LanguageOptions: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Compression.CompressionMode: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Compression.DeflateStream: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Compression.GZipStream: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.InvalidDataException: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Runtime.InteropServices.HandleCollector: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Runtime.InteropServices.DefaultParameterValueAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Runtime.Versioning.FrameworkName: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Threading.Semaphore: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Threading.BarrierPostPhaseException: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Threading.Barrier: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Media.SystemSounds: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Media.SystemSound: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.AccessControl.SemaphoreRights: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.AccessControl.SemaphoreAccessRule: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.AccessControl.SemaphoreAuditRule: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.AccessControl.SemaphoreSecurity: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Threading.ThreadExceptionEventArgs: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Threading.ThreadExceptionEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Generic.LinkedListNode`1: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Specialized.BitVector32: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Specialized.NotifyCollectionChangedAction: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Specialized.NotifyCollectionChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Specialized.StringEnumerator: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Runtime.InteropServices.ComTypes.ADVF: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Runtime.InteropServices.ComTypes.DATADIR: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Runtime.InteropServices.ComTypes.DVASPECT: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Runtime.InteropServices.ComTypes.FORMATETC: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Runtime.InteropServices.ComTypes.STATDATA: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Runtime.InteropServices.ComTypes.STGMEDIUM: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Runtime.InteropServices.ComTypes.TYMED: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.PowerModeChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.PowerModes: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.SessionEndedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.SessionEndingEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.SessionEndReasons: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.SessionSwitchEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.SessionSwitchReason: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.SystemEvents: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.TimerElapsedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.UserPreferenceCategory: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.UserPreferenceChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for Microsoft.Win32.UserPreferenceChangingEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Permissions.StorePermission: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Permissions.StorePermissionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Permissions.StorePermissionFlags: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Permissions.TypeDescriptorPermissionFlags: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Permissions.TypeDescriptorPermission: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Permissions.TypeDescriptorPermissionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.AsnEncodedData: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.AsnEncodedDataCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.AsnEncodedDataEnumerator: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.Oid: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.OidCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.OidEnumerator: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X500DistinguishedNameFlags: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X500DistinguishedName: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509NameType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509IncludeOption: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.PublicKey: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509Certificate2: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509FindType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509Certificate2Enumerator: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509ChainStatusFlags: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509ChainStatus: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509ChainElement: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509ChainElementCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509ChainElementEnumerator: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509RevocationMode: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509RevocationFlag: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509VerificationFlags: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509ChainPolicy: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509Extension: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509KeyUsageFlags: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509KeyUsageExtension: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509BasicConstraintsExtension: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509EnhancedKeyUsageExtension: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509SubjectKeyIdentifierHashAlgorithm: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509SubjectKeyIdentifierExtension: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509ExtensionCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509ExtensionEnumerator: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.StoreLocation: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.OpenFlags: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.StoreName: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Cryptography.X509Certificates.X509Store: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Authentication.ExtendedProtection.ChannelBindingKind: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Authentication.ExtendedProtection.PolicyEnforcement: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Authentication.ExtendedProtection.ProtectionScenario: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Authentication.ExtendedProtection.Configuration.ExtendedProtectionPolicyElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Authentication.ExtendedProtection.Configuration.ServiceNameElementCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Authentication.ExtendedProtection.Configuration.ServiceNameElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.UriHostNameType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.UriPartial: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.UriKind: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.UriComponents: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.UriFormat: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.UriIdnScope: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.GenericUriParserOptions: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.AuthenticationManager: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.AuthenticationSchemes: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.AuthenticationSchemeSelector: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Cookie: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Dns: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.DnsPermissionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.DnsPermission: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.FtpStatusCode: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.WebRequestMethods: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.FtpWebRequest: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.FtpWebResponse: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.GlobalProxySelection: type is obsolete.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.HttpListenerBasicIdentity: type is not supported because of internal limitations.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.HttpListener: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.HttpListenerContext: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.HttpListenerPrefixCollection: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.HttpListenerRequest: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.HttpListenerResponse: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.HttpRequestHeader: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.HttpResponseHeader: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.HttpStatusCode: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.DecompressionMethods: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.ICertificatePolicy: method System.Boolean System.Net.ICertificatePolicy.CheckValidationResult(System.Net.ServicePoint srvPoint, System.Security.Cryptography.X509Certificates.X509Certificate certificate, System.Net.WebRequest request, System.Int32 certificateProblem) unstubbable: method is abstract and could not be stubbed, type System.Security.Cryptography.X509Certificates.X509Certificate is not available in the target framework version.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.HttpContinueDelegate: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkAccess: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.BindIPEndPoint: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.ServicePoint: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.SecurityProtocolType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.ServicePointManager: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.SocketPermissionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.SocketPermission: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.EndpointPermission: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.TransportType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.OpenReadCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.OpenReadCompletedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.OpenWriteCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.OpenWriteCompletedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.DownloadStringCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.DownloadStringCompletedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.DownloadDataCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.DownloadDataCompletedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.UploadStringCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.UploadStringCompletedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.UploadDataCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.UploadDataCompletedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.UploadFileCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.UploadFileCompletedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.UploadValuesCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.UploadValuesCompletedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.DownloadProgressChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.DownloadProgressChangedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.UploadProgressChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.UploadProgressChangedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.WebExceptionStatus: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.WebPermissionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.WebPermission: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.WebUtility: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.NetworkStream: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Cache.RequestCacheLevel: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Cache.HttpRequestCacheLevel: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Cache.HttpCacheAgeControl: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Security.AuthenticatedStream: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Security.AuthenticationLevel: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Security.ProtectionLevel: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Security.NegotiateStream: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Authentication.SslProtocols: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Authentication.ExchangeAlgorithmType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Authentication.CipherAlgorithmType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Security.Authentication.HashAlgorithmType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Security.SslPolicyErrors: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Security.EncryptionPolicy: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Security.RemoteCertificateValidationCallback: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Security.LocalCertificateSelectionCallback: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Security.SslStream: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.AddressFamily: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.IOControlCode: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.IPProtectionLevel: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.ProtocolFamily: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.ProtocolType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.SelectMode: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.SocketInformationOptions: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.SocketInformation: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.SocketAsyncOperation: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.SocketError: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.SocketFlags: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.SocketOptionLevel: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.SocketOptionName: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.SocketShutdown: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.SocketType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.TransmitFileOptions: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Sockets.IPPacketInformation: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.DuplicateAddressDetectionState: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.NetworkInterfaceType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.IPAddressInformationCollection: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.IPStatus: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.NetworkAvailabilityEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.NetworkChange: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.NetworkAddressChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.NetworkAvailabilityChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.NetworkInformationAccess: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.NetworkInformationPermissionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.NetworkInformationPermission: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.NetworkInterfaceComponent: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.NetBiosNodeType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.OperationalStatus: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.PingCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.PingCompletedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.PingReply: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.PrefixOrigin: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.SuffixOrigin: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.NetworkInformation.TcpState: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.AuthenticationModuleElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.AuthenticationModuleElementCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.AuthenticationModulesSection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.BypassElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.BypassElementCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.ConnectionManagementElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.ConnectionManagementElementCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.ConnectionManagementSection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.DefaultProxySection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.HttpWebRequestElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.HttpListenerElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.HttpCachePolicyElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.FtpCachePolicyElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.Ipv6Element: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.MailSettingsSectionGroup: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.ModuleElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.NetSectionGroup: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.PerformanceCountersElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.ProxyElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.RequestCachingSection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SchemeSettingElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SchemeSettingElementCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.SettingsSection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.ServicePointManagerElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.SmtpSection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.SmtpNetworkElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.SmtpSpecifiedPickupDirectoryElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.SocketElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.WebProxyScriptElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.WebRequestModuleElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.WebRequestModuleElementCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Configuration.WebRequestModulesSection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.UriSection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.IriParsingElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.IdnElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.AlternateViewCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.AttachmentCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mime.DispositionTypeNames: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.LinkedResourceCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.DeliveryNotificationOptions: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mime.MediaTypeNames: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.MailPriority: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.SendCompletedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.SmtpDeliveryMethod: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.SmtpAccess: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.SmtpPermissionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.SmtpPermission: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mail.SmtpStatusCode: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Net.Mime.TransferEncoding: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingsLoadedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingsSavingEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingChangingEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.ConfigurationSettings: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.ConfigXmlDocument: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.ApplicationScopedSettingAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.DefaultSettingValueAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.NoSettingsVersionUpgradeAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingsDescriptionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingsGroupDescriptionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingsGroupNameAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingsManageabilityAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingsProviderAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingsSerializeAsAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SpecialSettingAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.UserScopedSettingAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingsManageability: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SpecialSetting: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingsSerializeAs: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.ApplicationSettingsGroup: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.UserSettingsGroup: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.ClientSettingsSection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingElementCollection: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Configuration.SettingValueElement: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.NotifyFilters: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.ErrorEventArgs: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.ErrorEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.FileSystemEventArgs: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.FileSystemEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.FileSystemWatcher: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.InternalBufferOverflowException: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.IODescriptionAttribute: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.RenamedEventArgs: type is not supported because it is not available or changed between versions.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.RenamedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.WaitForChangedResult: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.WatcherChangeTypes: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Timers.ElapsedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Timers.ElapsedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Web.AspNetHostingPermissionLevel: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Web.AspNetHostingPermissionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Web.AspNetHostingPermission: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.CounterSample: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.CounterSampleCalculator: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.DataReceivedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.DataReceivedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.DiagnosticsConfigurationHandler: type is obsolete.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.EntryWrittenEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.EventLogEntry: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.EventLogEntryCollection: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.EventLogEntryType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.EventLogPermission: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.EventLogPermissionAccess: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.EventLogPermissionEntryCollection: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.EventLogTraceListener: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.FileVersionInfo: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.OverflowAction: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.PerformanceCounter: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.PerformanceCounterCategory: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.PerformanceCounterCategoryType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.PerformanceCounterInstanceLifetime: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.PerformanceCounterManager: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.PerformanceCounterPermission: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.PerformanceCounterPermissionAccess: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.PerformanceCounterPermissionEntryCollection: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.PerformanceCounterType: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.ProcessModule: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.ProcessPriorityClass: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.ProcessStartInfo: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.ProcessThread: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.ProcessWindowStyle: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.ThreadPriorityLevel: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.ThreadState: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.ThreadWaitReason: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverageAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.Handshake: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.Parity: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.SerialError: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.SerialErrorReceivedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.SerialErrorReceivedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.SerialPinChange: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.SerialPinChangedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.SerialPinChangedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.SerialData: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.SerialDataReceivedEventArgs: type has no family visible contructors.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.SerialDataReceivedEventHandler: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.IO.Ports.StopBits: type is a value type.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Concurrent.SystemThreadingCollections_BlockingCollectionDebugView`1: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Concurrent.SystemThreadingCollection_IProducerConsumerCollectionDebugView`1: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Generic.System_CollectionDebugView`1: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Generic.System_QueueDebugView`1: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Generic.System_StackDebugView`1: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Generic.System_DictionaryDebugView`2: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Generic.System_DictionaryKeyCollectionDebugView`2: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Generic.System_DictionaryValueCollectionDebugView`2: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Collections.Generic.SortedSetDebugView`1: type is not visible to exported or assembly(System.4.0.0.0.Fakes).
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.Diagnostics.AlphabeticalEnumConverter: type is not visible to exported or assembly(System.4.0.0.0.Fakes).
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for FXAssembly: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for ThisAssembly: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for AssemblyRef: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.SRDescriptionAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for System.SRCategoryAttribute: type is sealed.
+C:\Users\30181379\Downloads\LearningFakes\UnitTests\Fakes\System.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>{C519B58E-6CD8-4B65-BE32-92633E98E2FE}: type is not supported because of internal limitations.

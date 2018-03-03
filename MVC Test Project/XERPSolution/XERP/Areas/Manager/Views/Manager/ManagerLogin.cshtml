@@ -1,0 +1,28 @@
+﻿@model XEPR.Models.tblManager
+
+@{
+    ViewBag.Title = "Login";
+}
+<h2>Manager Login</h2>
+<br />
+<br />
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    <table>
+        <tr>
+            <td>WINID: </td>
+            <td>
+                @Html.EditorFor(model => model.ManagerWinId)
+                
+            </td>
+            <td>
+                <input type="submit" value="Login" /></td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center">
+                @Html.ValidationMessageFor(model => model.ManagerWinId)
+            </td>
+        </tr>
+    </table>
+}

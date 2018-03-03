@@ -1,0 +1,5 @@
+D:\Projects\Aspose.Email\Aspose.Email\bin\Debug\Aspose.Email.dll
+D:\Projects\Aspose.Email\Aspose.Email\bin\Debug\Aspose.Email.pdb
+D:\Projects\Aspose.Email\Aspose.Email\obj\Debug\Aspose.Email.csprojResolveAssemblyReference.cache
+D:\Projects\Aspose.Email\Aspose.Email\obj\Debug\Aspose.Email.dll
+D:\Projects\Aspose.Email\Aspose.Email\obj\Debug\Aspose.Email.pdb

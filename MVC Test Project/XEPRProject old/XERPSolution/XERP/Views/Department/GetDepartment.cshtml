@@ -1,0 +1,54 @@
+﻿@model XEPR.Models.tblDepartment
+
+@{
+    ViewBag.Title = "GetDepartment";
+}
+
+<h2>Department Details</h2>
+
+<fieldset>
+    <legend>Department</legend>
+
+    <table border="1">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedDateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModifiedDateTime)
+            </th>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(model => model.DepartmentName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.CreatedBy)
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.CreatedDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.ModifiedDateTime)
+            </td>
+        </tr>
+    </table>
+
+
+</fieldset>
+<p>
+    @Html.ActionLink("Back To Department List", "GetDepartmentList", "Department")
+</p>

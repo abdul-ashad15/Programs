@@ -1,0 +1,76 @@
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\WebDX.Api.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\WebDX.Api.Fakes.fakesconfig
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\WebDX.Api.Fakes.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\WebDX.Api.pdb
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\WebDX.Api.Fakes.xml
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\WebDX.Api.Tests.csprojFakesResolveAssemblyReference.cache
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\fakes.args
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\TypeMock.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.fakesconfig
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.pdb
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.xml
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.pdb
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.ah
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.ch
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.cs
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.csproj
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.fakes
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.fakesconfig
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\o\f.csproj.FileListAbsolute.txt
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\o\f.csprojResolveAssemblyReference.cache
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\o\WebDX.Api.Fakes.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\o\WebDX.Api.Fakes.pdb
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\WebDX.Api.Tests.csprojResolveAssemblyReference.cache
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\Interop.mscoree.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\WebDX.Api.Tests.csproj.ResolveComReference.cache
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\WebDX.Api.Tests.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\obj\Debug\WebDX.Api.Tests.pdb
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\WebDX.Api.Tests.dll
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\WebDX.Api.Tests.pdb
+D:\COE\COE Project\Dev\COE Capture Tools\API\WebDX.Api.Tests\bin\Debug\Interop.mscoree.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\WebDX.Api.Tests.csprojFakesResolveAssemblyReference.cache
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\fakes.args
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\TypeMock.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.fakesconfig
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.pdb
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.Fakes.xml
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\b\WebDX.Api.pdb
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.ah
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.ch
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.cs
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.csproj
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.fakes
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\f.fakesconfig
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\o\f.csproj.FileListAbsolute.txt
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\o\f.csprojResolveAssemblyReference.cache
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\o\WebDX.Api.Fakes.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Fakes\wdxa\o\WebDX.Api.Fakes.pdb
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\WebDX.Api.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\Interop.mscoree.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\WebDX.Api.Tests.csproj.ResolveComReference.cache
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\WebDX.Api.Tests.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\obj\Debug\WebDX.Api.Tests.pdb
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\WebDX.Api.Tests.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\WebDX.Api.Tests.pdb
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\WebDX.Api.Fakes.fakesconfig
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\WebDX.Api.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\WebDX.Api.Fakes.dll
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\WebDX.Api.pdb
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\WebDX.Api.Fakes.xml
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Projects\New folder\WebDX.Api\WebDX.Api.Tests\bin\Debug\Interop.mscoree.dll

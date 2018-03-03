@@ -1,0 +1,57 @@
+﻿@model XEPR.Models.tblAssessment
+
+@{
+    ViewBag.Title = "CreateAssessment";
+}
+
+<h2>Create New Assessment</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>tblAssessment</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.AssessmentTitle)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.AssessmentTitle)
+            @Html.ValidationMessageFor(model => model.AssessmentTitle)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Description)
+        </div>
+        <div class="editor-field">
+            @Html.TextAreaFor(model => model.Description,new {style = "width: 300px;"})
+            @Html.ValidationMessageFor(model => model.Description)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CreatedBy)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.CreatedBy)
+            @Html.ValidationMessageFor(model => model.CreatedBy)
+        </div>
+
+      
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+
+<div>
+    @Html.ActionLink("Back to Assessment List", "GetAssessmentList","Assessment")
+</div>
+
+@section Scripts 
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+

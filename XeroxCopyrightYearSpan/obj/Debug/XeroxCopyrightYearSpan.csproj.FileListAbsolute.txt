@@ -1,0 +1,9 @@
+C:\XCM2.2\Heart\PlatformCore\XeroxCopyrightYearSpan\bin\Debug\XeroxCopyrightYearSpan.dll
+C:\XCM2.2\Heart\PlatformCore\XeroxCopyrightYearSpan\bin\Debug\XeroxCopyrightYearSpan.pdb
+C:\XCM2.2\Heart\PlatformCore\XeroxCopyrightYearSpan\obj\Debug\XeroxCopyrightYearSpan.dll
+C:\XCM2.2\Heart\PlatformCore\XeroxCopyrightYearSpan\obj\Debug\XeroxCopyrightYearSpan.pdb
+D:\Projects\XeroxCopyrightYearSpan\bin\Debug\XeroxCopyrightYearSpan.dll
+D:\Projects\XeroxCopyrightYearSpan\bin\Debug\XeroxCopyrightYearSpan.pdb
+D:\Projects\XeroxCopyrightYearSpan\obj\Debug\XeroxCopyrightYearSpan.csprojResolveAssemblyReference.cache
+D:\Projects\XeroxCopyrightYearSpan\obj\Debug\XeroxCopyrightYearSpan.dll
+D:\Projects\XeroxCopyrightYearSpan\obj\Debug\XeroxCopyrightYearSpan.pdb

@@ -1,0 +1,5 @@
+C:\XCM2.2\Heart\PlatformCore\XeroxCopyrightYearSpan\obj\Release\XeroxCopyrightYearSpan.csprojResolveAssemblyReference.cache
+C:\XCM2.2\Heart\PlatformCore\XeroxCopyrightYearSpan\bin\Release\XeroxCopyrightYearSpan.dll
+C:\XCM2.2\Heart\PlatformCore\XeroxCopyrightYearSpan\bin\Release\XeroxCopyrightYearSpan.pdb
+C:\XCM2.2\Heart\PlatformCore\XeroxCopyrightYearSpan\obj\Release\XeroxCopyrightYearSpan.dll
+C:\XCM2.2\Heart\PlatformCore\XeroxCopyrightYearSpan\obj\Release\XeroxCopyrightYearSpan.pdb

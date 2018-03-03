@@ -1,0 +1,72 @@
+﻿@model IEnumerable<XEPR.Models.tblRating>
+
+@{
+    ViewBag.Title = "Rating List";
+}
+
+<h2>Rating List View</h2>
+
+
+<p>
+    @Html.ActionLink("Create New Rating", "CreateRating", "Rating")
+</p>
+<table border="1">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.RatingText)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RatingValue)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </th>
+        <th>Edit
+        </th>
+        <th>Details
+        </th>
+        <th>Delete
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RatingText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RatingValue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedBy)
+            </td>
+         @*   <td>
+                @Html.DisplayFor(modelItem => item.CreatedDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedDateTime)
+            </td>*@
+            <td>
+                @Html.ActionLink("Edit", "ModifyRating", new { id = item.RatingId })
+            </td>
+            <td>
+                @Html.ActionLink("Details", "GetRating", new { id = item.RatingId })
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "DeleteRating", new { id = item.RatingId }, new { onclick = "return confirm('Are you sure to delete record?');" })
+            </td>
+        </tr>
+    }
+
+</table>
+<div>
+    @Html.ActionLink("Back to Home Page", "AdminPage", "Admin", new { area = "Administrator" }, null)
+</div>

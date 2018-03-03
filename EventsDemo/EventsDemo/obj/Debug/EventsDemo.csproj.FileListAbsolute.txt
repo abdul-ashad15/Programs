@@ -1,0 +1,6 @@
+D:\Projects\EventsDemo\EventsDemo\bin\Debug\EventsDemo.exe.config
+D:\Projects\EventsDemo\EventsDemo\bin\Debug\EventsDemo.exe
+D:\Projects\EventsDemo\EventsDemo\bin\Debug\EventsDemo.pdb
+D:\Projects\EventsDemo\EventsDemo\obj\Debug\EventsDemo.csprojResolveAssemblyReference.cache
+D:\Projects\EventsDemo\EventsDemo\obj\Debug\EventsDemo.exe
+D:\Projects\EventsDemo\EventsDemo\obj\Debug\EventsDemo.pdb

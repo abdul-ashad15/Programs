@@ -1,0 +1,114 @@
+﻿@model List<XEPR.Areas.Employee.Models.ManagerReviewForEmpolyee>
+
+@{
+    ViewBag.Title = "GetManagerReviewForEmployee";
+}
+
+
+
+<script type="text/javascript">
+    $(function () { $("#Comment").val(""); });
+</script>
+
+<style>
+    textarea
+    {
+        font-family: inherit;
+        width: 905px;
+        font-family: Arial,Helvetica,sans-serif;
+        font-size: 12px;
+    }
+
+    .lblDefault
+    {
+        font-family: Arial,Helvetica,sans-serif;
+        font-size: 16px;
+        font-weight: bolder;
+        color: #FFFFFF;
+        text-align: center;
+        background: url(~/Content/themes/Images/button_roll.gif);
+    }
+
+    .cssFormInput
+    {
+        width: 169px;
+        background-color: #cecece;
+        text-align: left;
+    }
+
+    hr
+    {
+        border: 1px dotted #ff0000;
+        border-style: none none dotted;
+        color: #fff;
+        background-color: #fff;
+    }
+</style>
+
+<div class="topContainer">
+  @*  <div class="firstHeader">Manager Assessment</div>*@
+    @*<div class="topFirstContainer">
+        <div class="lastHeader">Login User: Arvind</div>
+    </div>*@
+</div>
+<br />
+
+<br />
+
+<table border="1" cellpadding="1" cellspacing="0" style="width:933px">
+    @using (Html.BeginForm("GetManagerReviewForEmployee", "ManagerReview", FormMethod.Post))
+    {
+        <tr class="lblDefault"><td colspan="2" style="background-color:gray;text-align:center;"><div style="font-weight:bold;height: 30px;">Manager Assessment Form</div></td></tr>
+  
+        if (Model != null && Model.Count > 0)
+        {
+            for (var i = 0; i < Model.Count; i++)
+            {
+        
+        
+        <tr>
+          
+        <td style="background-color:#cecece;width:900px;font-family:Arial,Helvetica,sans-serif; font-weight:bold" align="left" class="textarea" >
+            
+             @Html.HiddenFor(modelItem => Model[i].AssessmentId)
+             @Html.HiddenFor(modelItem => Model[i].EmpWinId)
+             @Html.HiddenFor(modelItem => Model[i].ManagerWinId) 
+            Assessment Title: @Html.DisplayFor(modelItem => Model[i].AssessmentTitle)       
+      
+          </td>
+        </tr>
+    <tr>
+        <td>Summary:</td>
+    </tr>
+        <tr>
+        <td style="background-color:#cecece;width:933px ;font-family:Arial,Helvetica,sans-serif;" align="left";>
+  @Html.TextAreaFor(modelItem => Model[i].AssessmentDescription, new { @Readonly = "readonly", rows = "6", cols = "16" })    
+
+
+        </td>
+            </tr>
+    
+    <tr>
+        <td>Rating:</td>
+    </tr>
+            <tr>
+        <td style="background-color:#cecece;width:900px;font-family:Arial,Helvetica,sans-serif;" align="left" class="cssFormInput" >
+           @* @Html.DropDownListFor(modelItem => Model[i].Rating, Model[i].RatingId)*@
+
+          Rating: @Html.DropDownListFor(modelItem => Model[i].ManagerRating, Model[i].ManagerRating, new { disabled = "true" })       </td>
+                </tr>
+    
+    <tr>
+        <td>Employee Comment:</td>
+    </tr>
+        <tr>
+        <td style="background-color:#cecece;width:900px;font-family:Arial,Helvetica,sans-serif;" align="left">
+           @Html.TextAreaFor(modelItem => Model[i].Manager_Comment, new { @Readonly = "readonly", rows = "6", cols = "16" })        </td>
+       
+    </tr>
+            }
+        }
+
+
+    }
+</table>

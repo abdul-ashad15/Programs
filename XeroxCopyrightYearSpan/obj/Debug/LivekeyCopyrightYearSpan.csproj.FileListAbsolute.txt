@@ -1,0 +1,4 @@
+D:\Projects\XeroxCopyrightYearSpan\bin\Debug\XeroxCopyrightYearSpan.dll
+D:\Projects\XeroxCopyrightYearSpan\bin\Debug\XeroxCopyrightYearSpan.pdb
+D:\Projects\XeroxCopyrightYearSpan\obj\Debug\XeroxCopyrightYearSpan.dll
+D:\Projects\XeroxCopyrightYearSpan\obj\Debug\XeroxCopyrightYearSpan.pdb

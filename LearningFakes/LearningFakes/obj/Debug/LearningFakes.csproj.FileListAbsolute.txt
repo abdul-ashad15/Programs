@@ -1,0 +1,15 @@
+C:\temp\NEW\LearningFakes\LearningFakes\bin\Debug\LearningFakes.dll
+C:\temp\NEW\LearningFakes\LearningFakes\bin\Debug\LearningFakes.pdb
+C:\temp\NEW\LearningFakes\LearningFakes\obj\Debug\LearningFakes.csprojResolveAssemblyReference.cache
+C:\temp\NEW\LearningFakes\LearningFakes\obj\Debug\LearningFakes.dll
+C:\temp\NEW\LearningFakes\LearningFakes\obj\Debug\LearningFakes.pdb
+C:\Users\30181379\Downloads\LearningFakes\LearningFakes\bin\Debug\LearningFakes.dll
+C:\Users\30181379\Downloads\LearningFakes\LearningFakes\bin\Debug\LearningFakes.pdb
+C:\Users\30181379\Downloads\LearningFakes\LearningFakes\obj\Debug\LearningFakes.dll
+C:\Users\30181379\Downloads\LearningFakes\LearningFakes\obj\Debug\LearningFakes.pdb
+C:\Users\30181379\Downloads\LearningFakes\LearningFakes\obj\Debug\LearningFakes.csprojResolveAssemblyReference.cache
+D:\Projects\LearningFakes\LearningFakes\bin\Debug\LearningFakes.dll
+D:\Projects\LearningFakes\LearningFakes\bin\Debug\LearningFakes.pdb
+D:\Projects\LearningFakes\LearningFakes\obj\Debug\LearningFakes.csprojResolveAssemblyReference.cache
+D:\Projects\LearningFakes\LearningFakes\obj\Debug\LearningFakes.dll
+D:\Projects\LearningFakes\LearningFakes\obj\Debug\LearningFakes.pdb

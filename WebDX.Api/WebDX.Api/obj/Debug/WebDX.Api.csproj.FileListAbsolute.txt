@@ -1,0 +1,14 @@
+C:\COECaptureTools\API\WebDX.Api\bin\Debug\WebDX.Api.dll
+C:\COECaptureTools\API\WebDX.Api\bin\Debug\WebDX.Api.pdb
+C:\COECaptureTools\API\WebDX.Api\obj\Debug\WebDX.Api.WDEExceptionResources.resources
+C:\COECaptureTools\API\WebDX.Api\obj\Debug\WebDX.Api.csproj.GenerateResource.Cache
+C:\COECaptureTools\API\WebDX.Api\obj\Debug\WebDX.Api.dll
+C:\COECaptureTools\API\WebDX.Api\obj\Debug\WebDX.Api.pdb
+C:\COECaptureTools\API\WebDX.Api\obj\Debug\WebDX.Api.csprojResolveAssemblyReference.cache
+D:\Projects\WebDX.Api\WebDX.Api\bin\Debug\WebDX.Api.dll
+D:\Projects\WebDX.Api\WebDX.Api\bin\Debug\WebDX.Api.pdb
+D:\Projects\WebDX.Api\WebDX.Api\obj\Debug\WebDX.Api.WDEExceptionResources.resources
+D:\Projects\WebDX.Api\WebDX.Api\obj\Debug\WebDX.Api.csproj.GenerateResource.Cache
+D:\Projects\WebDX.Api\WebDX.Api\obj\Debug\WebDX.Api.dll
+D:\Projects\WebDX.Api\WebDX.Api\obj\Debug\WebDX.Api.pdb
+D:\Projects\WebDX.Api\WebDX.Api\obj\Debug\WebDX.Api.csprojResolveAssemblyReference.cache

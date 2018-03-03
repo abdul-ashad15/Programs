@@ -1,0 +1,63 @@
+﻿@model XEPR.Models.tblRating
+
+@{
+    ViewBag.Title = "CreateRating";
+}
+
+<h2>Create Rating</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>tblRating</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.RatingText)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.RatingText)
+            @Html.ValidationMessageFor(model => model.RatingText)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.RatingValue)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.RatingValue)
+            @Html.ValidationMessageFor(model => model.RatingValue)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Description)
+        </div>
+        <div class="editor-field">
+            @Html.TextAreaFor(model => model.Description,new {style = "width: 300px;"})
+            @Html.ValidationMessageFor(model => model.Description)
+        </div>
+
+     
+     <div class="editor-label">
+            @Html.LabelFor(model => model.CreatedBy)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.CreatedBy)
+            @Html.ValidationMessageFor(model => model.CreatedBy)
+        </div>
+
+        
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to Home Page", "AdminPage","Home")
+</div>
+
+@section Scripts 
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

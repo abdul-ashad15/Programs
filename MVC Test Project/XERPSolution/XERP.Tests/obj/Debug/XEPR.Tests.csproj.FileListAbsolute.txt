@@ -1,0 +1,98 @@
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\XERP.Tests.dll.config
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\XERP.Tests.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\XERP.Tests.pdb
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Helpers.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Http.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Mvc.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Razor.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\XERP.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\EntityFramework.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Optimization.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\XERP.pdb
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Helpers.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Http.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Mvc.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Razor.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\EntityFramework.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\obj\Debug\XEPR.Tests.csprojResolveAssemblyReference.cache
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\obj\Debug\XERP.Tests.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\obj\Debug\XERP.Tests.pdb
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\PagedList.dll
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\PagedList.xml
+E:\XAPI\XEPRProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Optimization.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\XERP.Tests.dll.config
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\XERP.Tests.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\XERP.Tests.pdb
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Helpers.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Http.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Mvc.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Razor.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\XERP.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\EntityFramework.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Optimization.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\PagedList.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\XERP.pdb
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Helpers.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Http.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Mvc.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Razor.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\EntityFramework.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\System.Web.Optimization.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\PagedList.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\obj\Debug\XEPR.Tests.csprojResolveAssemblyReference.cache
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\obj\Debug\XERP.Tests.dll
+D:\MVC Work\SampleProject\XERPSolution\XERP.Tests\obj\Debug\XERP.Tests.pdb

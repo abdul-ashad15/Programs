@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebDXApi.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:WebDXApi.Fakes.ShimWebDXData">
+            <summary>Shim type of WebDXApi.WebDXData</summary>
+        </member>
+        <member name="M:WebDXApi.Fakes.ShimWebDXData.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:WebDXApi.Fakes.ShimWebDXData.#ctor(WebDXApi.WebDXData)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:WebDXApi.Fakes.ShimWebDXData.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:WebDXApi.Fakes.ShimWebDXData.AllInstances.CurrentSWVersionInt32">
+            <summary>Sets the shim of WebDXData.CurrentSWVersion(Int32 x)</summary>
+        </member>
+        <member name="M:WebDXApi.Fakes.ShimWebDXData.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:WebDXApi.Fakes.ShimWebDXData.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:WebDXApi.Fakes.ShimWebDXData.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:WebDXApi.Fakes.ShimWebDXData.Bind(WebDXApi.IWebDXData)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:WebDXApi.Fakes.ShimWebDXData.Constructor">
+            <summary>Sets the shim of WebDXData.WebDXData()</summary>
+        </member>
+        <member name="P:WebDXApi.Fakes.ShimWebDXData.CurrentSWVersionInt32">
+            <summary>Sets the shim of WebDXData.CurrentSWVersion(Int32 x)</summary>
+        </member>
+        <member name="T:WebDXApi.Fakes.StubIWebDXData">
+            <summary>Stub type of WebDXApi.IWebDXData</summary>
+        </member>
+        <member name="M:WebDXApi.Fakes.StubIWebDXData.#ctor">
+            <summary>Initializes a new instance of type StubIWebDXData</summary>
+        </member>
+        <member name="F:WebDXApi.Fakes.StubIWebDXData.CurrentSWVersionInt32">
+            <summary>Sets the stub of IWebDXData.CurrentSWVersion(Int32 x)</summary>
+        </member>
+        <member name="M:WebDXApi.Fakes.StubIWebDXData.WebDXApi#IWebDXData#CurrentSWVersion(System.Int32)">
+            <summary>Sets the stub of IWebDXData.CurrentSWVersion(Int32 x)</summary>
+        </member>
+        <member name="T:WebDXApi.Fakes.StubWebDXData">
+            <summary>Stub type of WebDXApi.WebDXData</summary>
+        </member>
+        <member name="M:WebDXApi.Fakes.StubWebDXData.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:WebDXApi.Fakes.StubWebDXData.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:WebDXApi.Fakes.StubWebDXData.InitializeStub">
+            <summary>Initializes a new instance of type StubWebDXData</summary>
+        </member>
+        <member name="P:WebDXApi.Fakes.StubWebDXData.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:WebDXApi.Fakes.StubWebDXData.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

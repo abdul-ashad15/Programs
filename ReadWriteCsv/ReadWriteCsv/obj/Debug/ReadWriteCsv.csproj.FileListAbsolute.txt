@@ -1,0 +1,1 @@
+D:\Projects\ReadWriteCsv\ReadWriteCsv\bin\Debug\ReadWriteCsv.exe.config

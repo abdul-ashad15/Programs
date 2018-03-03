@@ -1,0 +1,1 @@
+D:\Projects\ServiceFabricDemoApp\ServiceFabricDemoApp\obj\x64\Debug\ServiceFabricDemoApp.sfprojResolveAssemblyReference.cache

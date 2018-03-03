@@ -1,0 +1,401 @@
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEOpenMode: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESessionStatus: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEFieldFlags: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEMiscFlags: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEFieldStatus: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.VersionInfo: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDataSet: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDocuments: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDocument: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEImages: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEImage: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERejectCodes: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERejectCode: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.SchemaHelpers: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERecords: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERecord: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDocSessions: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDocSession: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESessions: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESession: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEFields: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEField: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERevisions: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERevision: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDECharRepairs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDECharRepair: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.DescriptionResources: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDataType: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEKeyMode: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEEntryMode: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEScriptLanguage: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESessionType: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESessionOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEEditErrorType: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEOCRRepairMode: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDECheckDigitMethods: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEProjectOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEImageScale: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESessionStyle: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEControlOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEFieldOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEGroupBoxOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEPSOrientation: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEExecuteOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDETableLookupOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDELookupResultFieldOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDetailGridOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERecordNumberPosition: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEQIOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEZipLookupOption: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEErrorOverrideType: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.ImageDock: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.ToolbarDock: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.IWDELinkConverter: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.IWDEControlDefsInternal: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.IWDEEditDefInternal: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.PluginDocking: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.IWDEDetailZoneDefInternal: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEProject: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDatabases: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDatabase: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEProjectColors: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDocumentDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDocumentDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEImageSourceDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEImageSourceDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERecordDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERecordDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEFieldDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEFieldDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEFieldDefLinks: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEFormDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.TempZone: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEFormDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEControlDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.KeyOrderSorter: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEControlDefLinks: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDELabelDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDETextBoxDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEGroupBoxDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDetailGridDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEImageFormDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEImageFormDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEImageDataDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEPhotoStitchDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEErrorOverrides: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.ErrorOverrideConsts: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEEditDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.EditDefConsts: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDECheckDigitEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERangeEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDERequiredEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESimpleListEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEValidLengthsEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDateEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDiagnosisPtrEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEBalanceCheckEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEEventScriptDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESessionDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESessionDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEFormLinks: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEAddressCorrectionEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEZP4LookupFields: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEZP4ResultFields: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEConditionalGotoEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEConditionalGotos: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEConditionalGoto: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDETableLookupEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDETableLookups: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDETableLookup: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDELookupResultFields: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDELookupResultField: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEZoneDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEZoneDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDELabelLinks: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEZoneLinks: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESnippetDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDESnippetDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDetailZoneDefs: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEDetailZoneDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEZipLookupEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEValidateEditDef: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEValidations: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEValidation: type has no family visible contructors.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.VersionPropertyFilterAttribute: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.VersionEnumFilterAttribute: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.VersionHelper: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.SCPCommentType: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.SCPTokenType: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.WDEExceptionResources: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.EventNames: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.TextBoxEventsProxy: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.DetailGridEventsProxy: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.FormEventsProxy: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ProjectEventsProxy: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ImageEventsProxy: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.MethodSplitter: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.EventType: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ScriptBaseEvent: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ScriptTextBoxKeyPressEvent: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ScriptTextBoxExitEvent: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ScriptProjectKeyPressEvent: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ScriptDocumentRejectEvent: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ScriptStartWorkEvent: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ScriptEndWorkEvent: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.StartWorkType: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.Orientations: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ScrollDisplay: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.EndWorkReason: type is a value type.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.DomainData: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.ScriptCompiler: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.AssemblyLoader: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for WebDX.Api.Scripts.Host: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>: type is sealed.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEOpenMode: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDESessionStatus: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEFieldFlags: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEMiscFlags: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEFieldStatus: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEXmlPersist: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEXmlPersistFlat: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDECollection: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERecordsOwner: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDataSet: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDataSet_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDataSet_R2: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocuments: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocumentsInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocument: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocument_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocument_R2: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocument_R3: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocument_R4: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocumentInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEImages: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEImage: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEImage_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEImage_R2: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERejectCodes: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERejectCode: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERecords: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERecords_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFilteredRecords: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFilteredRecordsInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERecord: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERecord_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERecordInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFields: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFieldsInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEField: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEField_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFieldClient: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFieldClient_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFieldInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERevisions: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERevisionsInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERevision: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERevision_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERevision_R2: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERevisionInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDECharRepairs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDECharRepair: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESessions: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESessionsInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESession: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESession_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESessionInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocSessions: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocSessionsInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocSession: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocSession_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocSession_R2: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocSession_R3: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocSession_R4: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocSessionInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.VersionInfo+<>c__DisplayClass5_0: type is not supported because of internal limitations.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.SchemaHelpers: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.DescriptionResources: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDECharSet+ParserState: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.ICommonPlugin: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.ISessionPlugin: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.ISessionPlugin_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IClientPlugin: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IClientPlugin_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.ILinkNotify: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEDataType: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEKeyMode: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEEntryMode: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEScriptLanguage: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDESessionType: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDESessionOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEEditErrorType: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEOCRRepairMode: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDECheckDigitMethods: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEProjectOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEImageScale: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDESessionStyle: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEControlOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEFieldOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEGroupBoxOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEPSOrientation: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEExecuteOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDETableLookupOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDELookupResultFieldOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEDetailGridOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDERecordNumberPosition: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEQIOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEZipLookupOption: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEErrorOverrideType: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.ImageDock: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.ToolbarDock: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEProject: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEProject_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEProject_R2: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEProject_R3: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEProject_R4: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEProject_R5: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDatabases: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDatabase: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEProjectColors: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEProjectPM: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEProjectInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDELinkConverter: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocumentDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDocumentDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEImageSourceDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEImageSourceDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEImageSourceDef_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERecordDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERecordDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFieldDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFieldDefLinks: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFieldDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFormDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFormDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFormDef_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEControlDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEControlDefsInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEControlDefLinks: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEControlDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDELabelDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDETextBoxDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDETextBoxDef_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDETextBoxDef_R2: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDETextBoxDef_R3: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEGroupBoxDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDetailGridDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEImageFormDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEImageFormDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEImageDataDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEZoneLinks: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDELabelLinks: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEPhotoStitchDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEErrorOverrides: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEErrorOverride: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEEditDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEEditDefs_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEEditDef_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEEditDefInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDECheckDigitEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERangeEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDERequiredEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESimpleListEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEValidLengthsEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEAddressCorrectionEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEConditionalGotoEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDateEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDiagnosisPtrEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEBalanceCheckEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEEventScriptDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESessionDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESessionDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESessionDef_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.PluginDocking: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESessionDef_R2: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESessionDef_R3: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFormLinks: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEFormLinks_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEZP4LookupFields: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEZP4ResultFields: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEConditionalGotos: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEConditionalGoto: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDETableLookupEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDETableLookups: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDETableLookup: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDELookupResultFields: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDELookupResultField: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEZoneDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEBaseZoneDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEZoneDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESnippetDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDESnippetDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDetailZoneDefs: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDetailZoneDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDetailZoneDef_R1: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEDetailZoneDefInternal: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEZipLookupEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEValidateEditDef: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEValidations: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.IWDEValidation: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.TempZone: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.KeyOrderSorter: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.ErrorOverrideConsts: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.EditDefConsts: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.VersionPropertyFilterAttribute: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.VersionEnumFilterAttribute: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.SCPCommentType: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.SCPTokenType: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.WDEExceptionResources: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.EventNames: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ScriptLoader+<>c__DisplayClass20_0: type is not supported because of internal limitations.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.TextBoxEventsProxy: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.DetailGridEventsProxy: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.FormEventsProxy: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ProjectEventsProxy: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ImageEventsProxy: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.MethodSplitter: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.EventType: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptImage: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptImageNames: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptImageTypes: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptDatabase: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptLookupDialog: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptForm: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptLabels: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptLabel: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptWork: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptForms: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptDocument: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptRecord: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptFields: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptRecords: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptField: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptRevisions: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptRevision: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptTextBox: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptDetailGrid: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptClient: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ScriptBaseEvent: type is a delegate.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ScriptTextBoxKeyPressEvent: type is a delegate.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ScriptTextBoxExitEvent: type is a delegate.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ScriptProjectKeyPressEvent: type is a delegate.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ScriptDocumentRejectEvent: type is a delegate.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ScriptStartWorkEvent: type is a delegate.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ScriptEndWorkEvent: type is a delegate.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.StartWorkType: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.Orientations: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ScrollDisplay: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.EndWorkReason: type is an enum.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptTextBoxEvents: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptDetailGridEvents: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptFormEvents: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptProjectEvents: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptImageEvents: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptEdit: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.DomainData: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.ScriptCompiler: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.AssemblyLoader: type is not visible to exported or assembly(WebDX.Api.Fakes).
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for WebDX.Api.Scripts.IScriptDisconnect: type is an interface.
+D:\Projects\WebDX.Api.TestApplivation\WebDXTestApplication\Fakes\WebDX.Api.fakes : warning : Cannot generate shim for <PrivateImplementationDetails>: type is not supported because of internal limitations.

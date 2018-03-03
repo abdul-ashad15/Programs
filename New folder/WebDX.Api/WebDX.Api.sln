@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDX.Api.Tests", "WebDX.Api.Tests\WebDX.Api.Tests.csproj", "{A03B2157-A81D-42E5-A312-CCB27D626A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDX.Api", "WebDX.Api\WebDX.Api.csproj", "{A6906E80-7B6F-42F2-8304-3365EDC6AB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		TFS|Any CPU = TFS|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03B2157-A81D-42E5-A312-CCB27D626A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03B2157-A81D-42E5-A312-CCB27D626A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03B2157-A81D-42E5-A312-CCB27D626A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03B2157-A81D-42E5-A312-CCB27D626A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03B2157-A81D-42E5-A312-CCB27D626A87}.TFS|Any CPU.ActiveCfg = Release|Any CPU
+		{A03B2157-A81D-42E5-A312-CCB27D626A87}.TFS|Any CPU.Build.0 = Release|Any CPU
+		{A6906E80-7B6F-42F2-8304-3365EDC6AB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6906E80-7B6F-42F2-8304-3365EDC6AB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6906E80-7B6F-42F2-8304-3365EDC6AB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6906E80-7B6F-42F2-8304-3365EDC6AB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6906E80-7B6F-42F2-8304-3365EDC6AB7E}.TFS|Any CPU.ActiveCfg = TFS|Any CPU
+		{A6906E80-7B6F-42F2-8304-3365EDC6AB7E}.TFS|Any CPU.Build.0 = TFS|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

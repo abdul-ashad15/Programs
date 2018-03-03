@@ -1,0 +1,6 @@
+C:\COECaptureTools\API\WebDX.Api\bin\Release\WebDX.Api.xml
+C:\COECaptureTools\API\WebDX.Api\bin\Release\WebDX.Api.dll
+C:\COECaptureTools\API\WebDX.Api\obj\Release\WebDX.Api.WDEExceptionResources.resources
+C:\COECaptureTools\API\WebDX.Api\obj\Release\WebDX.Api.csproj.GenerateResource.Cache
+C:\COECaptureTools\API\WebDX.Api\obj\Release\WebDX.Api.dll
+C:\COECaptureTools\API\WebDX.Api\obj\Release\WebDX.Api.csprojResolveAssemblyReference.cache

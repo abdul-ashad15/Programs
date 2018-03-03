@@ -1,0 +1,6 @@
+D:\Projects\IEnumerableDemo\IEnumerableDemo\bin\Debug\IEnumerableDemo.exe.config
+D:\Projects\IEnumerableDemo\IEnumerableDemo\bin\Debug\IEnumerableDemo.exe
+D:\Projects\IEnumerableDemo\IEnumerableDemo\bin\Debug\IEnumerableDemo.pdb
+D:\Projects\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.csprojResolveAssemblyReference.cache
+D:\Projects\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.exe
+D:\Projects\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.pdb

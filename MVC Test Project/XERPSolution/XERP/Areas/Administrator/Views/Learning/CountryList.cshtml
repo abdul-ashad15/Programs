@@ -1,0 +1,38 @@
+﻿@model List<XEPR.Areas.Administrator.Controllers.CountryMetadata>
+
+@{
+    ViewBag.Title = "CountryList";
+
+}
+
+<h2>CountryList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    @using (Html.BeginForm())
+    {
+
+        if (Model != null && Model.Count > 0)
+        {
+
+            for (var i = 0; i < Model.Count; i++)
+            {
+        <tr>
+            <td>
+                @Html.HiddenFor(modelItem => Model[i].CountryId)
+                @Html.EditorFor(modelItem => Model[i].CountryName)
+            </td>
+
+        </tr>
+            }
+        }
+        <tr>
+            <td>
+                <input type="submit" value="Save" />
+            </td>
+        </tr>
+    }
+
+</table>

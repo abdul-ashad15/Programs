@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LearningFakes.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:LearningFakes.Fakes.ShimUpgradeService">
+            <summary>Shim type of LearningFakes.UpgradeService</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.ShimUpgradeService.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.ShimUpgradeService.#ctor(LearningFakes.UpgradeService)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:LearningFakes.Fakes.ShimUpgradeService.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.AllInstances.ImagesGet">
+            <summary>Sets the shim of UpgradeService.get_Images()</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.AllInstances.currentSWVersionInt32">
+            <summary>Sets the shim of UpgradeService.currentSWVersion(Int32 DeviceID)</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.AllInstances.isSWUpgradeRequiredInt32">
+            <summary>Sets the shim of UpgradeService.isSWUpgradeRequired(Int32 DeviceID)</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.AllInstances.lastUpgradeDateInt32">
+            <summary>Sets the shim of UpgradeService.lastUpgradeDate(Int32 DeviceID)</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.AllInstances.upgradeDeviceInt32">
+            <summary>Sets the shim of UpgradeService.upgradeDevice(Int32 DeviceID)</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.ShimUpgradeService.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.ShimUpgradeService.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.ShimUpgradeService.Bind(LearningFakes.IUpgradeService)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.Constructor">
+            <summary>Sets the shim of UpgradeService.UpgradeService()</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.ImagesGet">
+            <summary>Sets the shim of UpgradeService.get_Images()</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.currentSWVersionInt32">
+            <summary>Sets the shim of UpgradeService.currentSWVersion(Int32 DeviceID)</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.isSWUpgradeRequiredInt32">
+            <summary>Sets the shim of UpgradeService.isSWUpgradeRequired(Int32 DeviceID)</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.lastUpgradeDateInt32">
+            <summary>Sets the shim of UpgradeService.lastUpgradeDate(Int32 DeviceID)</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimUpgradeService.upgradeDeviceInt32">
+            <summary>Sets the shim of UpgradeService.upgradeDevice(Int32 DeviceID)</summary>
+        </member>
+        <member name="T:LearningFakes.Fakes.ShimWDEImages">
+            <summary>Shim type of LearningFakes.WDEImages</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.ShimWDEImages.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.ShimWDEImages.#ctor(LearningFakes.WDEImages)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:LearningFakes.Fakes.ShimWDEImages.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimWDEImages.AllInstances.FindString">
+            <summary>Sets the shim of WDEImages.Find(String ImageName)</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimWDEImages.AllInstances.MathInt32Int32">
+            <summary>Sets the shim of WDEImages.Math(Int32 a, Int32 b)</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.ShimWDEImages.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.ShimWDEImages.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimWDEImages.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.ShimWDEImages.Bind(LearningFakes.IWDEImages)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimWDEImages.Constructor">
+            <summary>Sets the shim of WDEImages.WDEImages()</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimWDEImages.FindString">
+            <summary>Sets the shim of WDEImages.Find(String ImageName)</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.ShimWDEImages.MathInt32Int32">
+            <summary>Sets the shim of WDEImages.Math(Int32 a, Int32 b)</summary>
+        </member>
+        <member name="T:LearningFakes.Fakes.StubIUpgradeService">
+            <summary>Stub type of LearningFakes.IUpgradeService</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubIUpgradeService.#ctor">
+            <summary>Initializes a new instance of type StubIUpgradeService</summary>
+        </member>
+        <member name="F:LearningFakes.Fakes.StubIUpgradeService.CurrentSWVersionInt32">
+            <summary>Sets the stub of IUpgradeService.currentSWVersion(Int32 x)</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.StubIUpgradeService.LearningFakes#IUpgradeService#Images">
+            <summary>Sets the stub of IUpgradeService.get_Images()</summary>
+        </member>
+        <member name="F:LearningFakes.Fakes.StubIUpgradeService.ImagesGet">
+            <summary>Sets the stub of IUpgradeService.get_Images()</summary>
+        </member>
+        <member name="F:LearningFakes.Fakes.StubIUpgradeService.IsSWUpgradeRequiredInt32">
+            <summary>Sets the stub of IUpgradeService.isSWUpgradeRequired(Int32 DeviceID)</summary>
+        </member>
+        <member name="F:LearningFakes.Fakes.StubIUpgradeService.LastUpgradeDateInt32">
+            <summary>Sets the stub of IUpgradeService.lastUpgradeDate(Int32 DeviceID)</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubIUpgradeService.LearningFakes#IUpgradeService#currentSWVersion(System.Int32)">
+            <summary>Sets the stub of IUpgradeService.currentSWVersion(Int32 x)</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubIUpgradeService.LearningFakes#IUpgradeService#isSWUpgradeRequired(System.Int32)">
+            <summary>Sets the stub of IUpgradeService.isSWUpgradeRequired(Int32 DeviceID)</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubIUpgradeService.LearningFakes#IUpgradeService#lastUpgradeDate(System.Int32)">
+            <summary>Sets the stub of IUpgradeService.lastUpgradeDate(Int32 DeviceID)</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubIUpgradeService.LearningFakes#IUpgradeService#upgradeDevice(System.Int32)">
+            <summary>Sets the stub of IUpgradeService.upgradeDevice(Int32 DeviceID)</summary>
+        </member>
+        <member name="F:LearningFakes.Fakes.StubIUpgradeService.UpgradeDeviceInt32">
+            <summary>Sets the stub of IUpgradeService.upgradeDevice(Int32 DeviceID)</summary>
+        </member>
+        <member name="T:LearningFakes.Fakes.StubIWDEImages">
+            <summary>Stub type of LearningFakes.IWDEImages</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubIWDEImages.#ctor">
+            <summary>Initializes a new instance of type StubIWDEImages</summary>
+        </member>
+        <member name="F:LearningFakes.Fakes.StubIWDEImages.FindString">
+            <summary>Sets the stub of IWDEImages.Find(String ImageName)</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubIWDEImages.LearningFakes#IWDEImages#Find(System.String)">
+            <summary>Sets the stub of IWDEImages.Find(String ImageName)</summary>
+        </member>
+        <member name="T:LearningFakes.Fakes.StubUpgradeService">
+            <summary>Stub type of LearningFakes.UpgradeService</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubUpgradeService.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.StubUpgradeService.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubUpgradeService.InitializeStub">
+            <summary>Initializes a new instance of type StubUpgradeService</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.StubUpgradeService.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.StubUpgradeService.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:LearningFakes.Fakes.StubWDEImages">
+            <summary>Stub type of LearningFakes.WDEImages</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubWDEImages.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.StubWDEImages.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:LearningFakes.Fakes.StubWDEImages.InitializeStub">
+            <summary>Initializes a new instance of type StubWDEImages</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.StubWDEImages.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:LearningFakes.Fakes.StubWDEImages.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

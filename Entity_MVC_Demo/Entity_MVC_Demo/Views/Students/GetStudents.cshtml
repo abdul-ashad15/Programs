@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Entity_MVC_Demo.Models.Students>
+@using Entity_MVC_Demo.Models;  
+@{
+    ViewBag.Title = "GetStudents";
+}
+
+<h2>GetStudents</h2>
+
+
+@foreach (Students student in @Model)
+{
+    <table border="1">
+        <tr>
+            <td><b>ID:</b></td>
+            <td>
+                @student.ID
+            </td>
+        </tr>
+        <tr>
+            <td><b>Name:</b></td>
+            <td>@student.Name</td>
+        </tr>
+        <tr>
+            <td><b>Gender:</b></td>
+            <td>@student.Gender</td>
+        </tr>
+        <tr>
+            <td><b>Fees:</b></td>
+            <td>@student.Fees</td>
+        </tr>
+    </table>
+}
+

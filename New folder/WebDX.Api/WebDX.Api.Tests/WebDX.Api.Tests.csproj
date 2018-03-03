@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A03B2157-A81D-42E5-A312-CCB27D626A87}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebDX.Api.Tests</RootNamespace>
+    <AssemblyName>WebDX.Api.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>False</IsCodedUITest>
+    <TestProjectType>UnitTest</TestProjectType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+    <Reference Include="TypeMock, Version=8.5.2.29, Culture=neutral, PublicKeyToken=3dae460033b8d8e2, processorArchitecture=MSIL" />
+    <Reference Include="WebDX.Api.Fakes">
+      <HintPath>FakesAssemblies\WebDX.Api.Fakes.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Choose>
+    <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+      </ItemGroup>
+    </When>
+    <Otherwise>
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+      </ItemGroup>
+    </Otherwise>
+  </Choose>
+  <ItemGroup>
+    <Compile Include="APIEditsTests.cs" />
+    <Compile Include="ApiXmlDiffTests.cs" />
+    <Compile Include="ConditionalGotoEditDefTest.cs" />
+    <Compile Include="ControlDefsTests.cs" />
+    <Compile Include="DataExpectedResults.Designer.cs" />
+    <Compile Include="DataObjectsTests.cs" />
+    <Compile Include="DataSetObjectIntegratedTests.cs" />
+    <Compile Include="DataSetObjectTests.cs" />
+    <Compile Include="DocSessionObjectTests.cs" />
+    <Compile Include="DocSessionsObjectTests.cs" />
+    <Compile Include="DocumentObjectTests.cs" />
+    <Compile Include="EditDefTests.cs" />
+    <Compile Include="FieldObjectTests.cs" />
+    <Compile Include="FieldsObjectTests.cs" />
+    <Compile Include="ImageObjectTests.cs" />
+    <Compile Include="ImagesObjectTests.cs" />
+    <Compile Include="LinkResolverTests.cs" />
+    <Compile Include="MasksTests.cs" />
+    <Compile Include="NamingTests.cs" />
+    <Compile Include="ProjectBaseObjectTests.cs" />
+    <Compile Include="ProjectConversion.Designer.cs" />
+    <Compile Include="ProjectConversionTests.cs" />
+    <Compile Include="ProjectExpectedResults.Designer.cs" />
+    <Compile Include="ProjectMiscObjectTests.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecordObjectTests.cs" />
+    <Compile Include="RecordsObjectTests.cs" />
+    <Compile Include="ScriptEngineTests.cs" />
+    <Compile Include="ScriptLoaderTests.cs" />
+    <Compile Include="ScriptManagerTests.cs" />
+    <Compile Include="ScriptResources.Designer.cs" />
+    <Compile Include="SessionObjectTests.cs" />
+    <Compile Include="SessionReadWrite.cs" />
+    <Compile Include="SessionsObjectTests.cs" />
+    <Compile Include="SimpleCodeParserTests.cs" />
+    <Compile Include="TableLookupEditDefTests.cs" />
+    <Compile Include="TempIntegrationTests.cs" />
+    <Compile Include="TestUcomIstream.cs" />
+    <Compile Include="UtilsTests.cs" />
+    <Compile Include="VersionHelperTests.cs" />
+    <Compile Include="WebDX.Api.Designer.cs" />
+    <Compile Include="ZoneLabelLinksTests.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Fakes Include="Fakes\WebDX.Api.fakes" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="mscoree">
+      <Guid>{5477469E-83B1-11D2-8B49-00A0C9B7C9C4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebDX.Api\WebDX.Api.csproj">
+      <Project>{a6906e80-7b6f-42f2-8304-3365edc6ab7e}</Project>
+      <Name>WebDX.Api</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Choose>
+    <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.CodedUITestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITesting, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </When>
+  </Choose>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

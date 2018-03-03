@@ -1,0 +1,6 @@
+D:\Projects\DelegateAppl\DelegateAppl\bin\Debug\DelegateAppl.exe.config
+D:\Projects\DelegateAppl\DelegateAppl\bin\Debug\DelegateAppl.exe
+D:\Projects\DelegateAppl\DelegateAppl\bin\Debug\DelegateAppl.pdb
+D:\Projects\DelegateAppl\DelegateAppl\obj\Debug\DelegateAppl.csprojResolveAssemblyReference.cache
+D:\Projects\DelegateAppl\DelegateAppl\obj\Debug\DelegateAppl.exe
+D:\Projects\DelegateAppl\DelegateAppl\obj\Debug\DelegateAppl.pdb

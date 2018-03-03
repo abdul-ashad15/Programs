@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="UNKNOWN" xml:space="preserve">
+    <value>Unknown Error Code|This error code is not known to the system.</value>
+  </data>
+  <data name="API00001" xml:space="preserve">
+    <value>Project not assigned|Assign an IWDEProject to the IWDEDataSet.Project property or assign the path to the WebDX Project File to the IWDEDataSet.ProjectFile property.</value>
+  </data>
+  <data name="API00002" xml:space="preserve">
+    <value>Field not defined in project|Document: {0}\nRecord: {1}\nField: {2}</value>
+  </data>
+  <data name="API00003" xml:space="preserve">
+    <value>The Status can only be set to None, Plugged, Validated or Flagged|Attempted to set a status of: {0} on Field: {1}. This status can only be set by the keyer client.</value>
+  </data>
+  <data name="API90001" xml:space="preserve">
+    <value>CharRepairs can't be accessed without a current revision|This is an internal error. Please contact the WebDX support team. Field: {0}</value>
+  </data>
+  <data name="API00005" xml:space="preserve">
+    <value>Invalid character in value "{0}"|The value {0} contains characters that don't match the CharacterSet defined for this field. Field: {1}</value>
+  </data>
+  <data name="API00006" xml:space="preserve">
+    <value>Field must be completed|The length of "{0}" is shorter than the required length ({1}) for Field: {2}. (MustComplete Edit is enabled)</value>
+  </data>
+  <data name="API00007" xml:space="preserve">
+    <value>Set value of field to initialize field|Attempted to set the IsNull property to false on Field: {0}. Set the .Value property instead.</value>
+  </data>
+  <data name="API90002" xml:space="preserve">
+    <value>Item not found in collection {0}|This is an internal error. Please contact the WebDX support team.</value>
+  </data>
+  <data name="API00009" xml:space="preserve">
+    <value>Session with ID {0} missing from document {1}|The requested session was not found.</value>
+  </data>
+  <data name="API00010" xml:space="preserve">
+    <value>Invalid field name "{0}"|The field was not found during Record.FieldByName</value>
+  </data>
+  <data name="API00011" xml:space="preserve">
+    <value>No current record|Try calling First() before accessing this property or method.</value>
+  </data>
+  <data name="API00012" xml:space="preserve">
+    <value>Index out of range|Object: {0}\nIndex: {1}\nCount: {2}</value>
+  </data>
+  <data name="API00013" xml:space="preserve">
+    <value>Invalid record type "{0}"|Attempted to append a record using a record type that is not found in DocumentDef "{1}"</value>
+  </data>
+  <data name="API00014" xml:space="preserve">
+    <value>Invalid image type: "{0}"|The specified image type was not found in DocumentDef "{1}"</value>
+  </data>
+  <data name="API00015" xml:space="preserve">
+    <value>Invalid document type: "{0}"|The specified document type was not found in the project.</value>
+  </data>
+  <data name="API90003" xml:space="preserve">
+    <value>Sessions not initialized|This is an internal error. Please contact the WebDX support team.</value>
+  </data>
+  <data name="API90004" xml:space="preserve">
+    <value>DataSet is null|This is an internal error. Please contact the WebDX support team.</value>
+  </data>
+  <data name="API00016" xml:space="preserve">
+    <value>No current document|Try calling First() before accessing this property or method.</value>
+  </data>
+  <data name="API00017" xml:space="preserve">
+    <value>No current document|Add documents before accessing this property or method.</value>
+  </data>
+  <data name="API00018" xml:space="preserve">
+    <value>No current record|Add records before accessing this property or method.</value>
+  </data>
+  <data name="API00019" xml:space="preserve">
+    <value>CreateData() must be called prior to Append/Insert|For a new data file, CreateData() must be called before adding documents.</value>
+  </data>
+  <data name="API00020" xml:space="preserve">
+    <value>Invalid root element: {0}|The root element in this xml file is not valid.</value>
+  </data>
+  <data name="API00021" xml:space="preserve">
+    <value>FileName not specified|Please set the filename property before accessing this method.</value>
+  </data>
+  <data name="API00022" xml:space="preserve">
+    <value>DataSet not active|Please load a file or call CreateData() before calling this method.</value>
+  </data>
+  <data name="API00023" xml:space="preserve">
+    <value>Invalid reject code "{0}"|The specified reject code was not found in the project.</value>
+  </data>
+  <data name="API00024" xml:space="preserve">
+    <value>RejectCode "{0}" requires a description|Please set a description for this reject code.</value>
+  </data>
+  <data name="API00025" xml:space="preserve">
+    <value>Invalid RejectCode "{0}" while setting RejectDescription|Please set the RejectCode property to a valid reject code before setting RejectDescription.</value>
+  </data>
+  <data name="API00026" xml:space="preserve">
+    <value>Empty data file|This data file does not contain any documents. Please use CreateData to create a new data file.</value>
+  </data>
+  <data name="API80001" xml:space="preserve">
+    <value>Script host object unavailable.|The script host object "{0}" is not available at this time.</value>
+  </data>
+  <data name="API70001" xml:space="preserve">
+    <value>Invalid Edit Def "{0}"|The edit def passed to edit "{1}" does not implement the required interface "{2}"</value>
+  </data>
+  <data name="API70002" xml:space="preserve">
+    <value>Edit Definition Error|Invalid parameter definition in edit {0}, parameter {1}: {2}</value>
+  </data>
+  <data name="API00028" xml:space="preserve">
+    <value>Linked object not found|The linked object {0} is not part of this project.\nRequestor: {1}</value>
+  </data>
+  <data name="API00029" xml:space="preserve">
+    <value>Invalid root node in project file|The root node is named "{0}" and should be named "Project"</value>
+  </data>
+  <data name="API90005" xml:space="preserve">
+    <value>LinkResolver not set|This is an internal error. Please contact the WebDX support team.</value>
+  </data>
+  <data name="API90006" xml:space="preserve">
+    <value>TopParent not defined for object {0}|This is an internal error. Please contact the WebDX support team.</value>
+  </data>
+  <data name="API00030" xml:space="preserve">
+    <value>Invalid {0} owner|{0} can only be owned by {1}</value>
+  </data>
+  <data name="API00031" xml:space="preserve">
+    <value>Method not found|Linked object {0} does not contain a method called {1}</value>
+  </data>
+  <data name="API00032" xml:space="preserve">
+    <value>Invalid ScriptLanguage during conversion|Script language {0} is not supported when converting projects.</value>
+  </data>
+  <data name="API00033" xml:space="preserve">
+    <value>Property not found|Linked object {0} does not contain a property called {1}</value>
+  </data>
+  <data name="API00034" xml:space="preserve">
+    <value>Invalid imagelink format {0}|The imagelink format should be Document.Form.ImageLinkName.ZoneName.</value>
+  </data>
+  <data name="API90007" xml:space="preserve">
+    <value>Not ICloneable|Linked object {0} does not implement the ICloneable interface. This is an internal error. Please contact the WebDX support team.</value>
+  </data>
+  <data name="API90008" xml:space="preserve">
+    <value>Parent is not {0} for object {1}|This is an internal error. Please contact the WebDX Support Team.</value>
+  </data>
+  <data name="API00035" xml:space="preserve">
+    <value>Record not defined in project|Document: {0}\nRecord: {1}</value>
+  </data>
+  <data name="API90009" xml:space="preserve">
+    <value>Unable to link object|This is an internal error. Please contact the WebDX support team.\nRequesting object: {0}\nRequesting property: {1}\nRequested object: {2}\nOriginal exception: {3}</value>
+  </data>
+  <data name="API90010" xml:space="preserve">
+    <value>Unable to invoke link method|This is an internal error. Please contact the WebDX support team.\nRequesting object: {0}\nRequesting method: {1}\nOriginal exception: {2}</value>
+  </data>
+  <data name="API90011" xml:space="preserve">
+    <value>Unable to set override property value during dupe|This is an internal error. Please contact the WebDX support team.\nRequesting object: {0}\nRequesting property: {1}\nNew value: {2}\nOriginal exception: {3}</value>
+  </data>
+  <data name="API90012" xml:space="preserve">
+    <value>Unable to invoke link method during dupe|This is an internal error. Please contact the WebDX support team.\nRequesting object: {0}\nRequesting method: {1}\nRequested object: {2}\nOriginal exception: {3}</value>
+  </data>
+  <data name="API90013" xml:space="preserve">
+    <value>Zone not owned by ImageSourceDef|This is an internal error. Please contact the WebDX support team.\nZone name: {0}</value>
+  </data>
+  <data name="API00036" xml:space="preserve">
+    <value>No FormLinks in SessionDef|SessionDef "{0}" contains no FormLinks.</value>
+  </data>
+  <data name="API00037" xml:space="preserve">
+    <value>Invalid characters in name|The name "{0}" contains invalid characters.\nValid names can contain only upper and lower case letters, numbers and underscores.\nNames cannot begin with anything other than a letter.</value>
+  </data>
+  <data name="API00038" xml:space="preserve">
+    <value>Duplicate name|An object with the name "{0}" is already in this project.</value>
+  </data>
+  <data name="API90014" xml:space="preserve">
+    <value>{0} not owned by {1}|This is an internal error. Please contact the WebDX support team.</value>
+  </data>
+  <data name="API00039" xml:space="preserve">
+    <value>No matching document in SessionDef|SessionDef "{0}" does not have a form from document "{1}" which contains image type "{2}"</value>
+  </data>
+  <data name="API90015" xml:space="preserve">
+    <value>FormDef not found in document collection|FormDef "{0}" not found in document collection. This is an internal error. Please contact the WebDX support team.</value>
+  </data>
+  <data name="API90016" xml:space="preserve">
+    <value>The {0} {1} was lost in the {2} with {3} = {4} where {0} = {5}|This is an internal error. Please contact the WebDX support team.</value>
+  </data>
+  <data name="API00040" xml:space="preserve">
+    <value>Invalid target version.|The target API version {0} is invalid.</value>
+  </data>
+</root>

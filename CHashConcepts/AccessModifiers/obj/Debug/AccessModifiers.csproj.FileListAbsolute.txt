@@ -1,0 +1,5 @@
+D:\Projects\CHashConcepts\AccessModifiers\obj\Debug\AccessModifiers.csprojResolveAssemblyReference.cache
+D:\Projects\CHashConcepts\AccessModifiers\bin\Debug\AccessModifiers.dll
+D:\Projects\CHashConcepts\AccessModifiers\bin\Debug\AccessModifiers.pdb
+D:\Projects\CHashConcepts\AccessModifiers\obj\Debug\AccessModifiers.dll
+D:\Projects\CHashConcepts\AccessModifiers\obj\Debug\AccessModifiers.pdb

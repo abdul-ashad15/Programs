@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="XEPRModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="XEPRModelStoreContainer">
+    <EntitySet Name="tblAdmin" EntityType="XEPRModel.Store.tblAdmin" store:Type="Tables" store:Schema="dbo" store:Name="tblAdmin">
+      <DefiningQuery>SELECT 
+      [tblAdmin].[UserName] AS [UserName], 
+      [tblAdmin].[Password] AS [Password]
+      FROM [dbo].[tblAdmin] AS [tblAdmin]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="tblAssessment" EntityType="XEPRModel.Store.tblAssessment" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblAssessmentDetail" EntityType="XEPRModel.Store.tblAssessmentDetail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblCity" EntityType="XEPRModel.Store.tblCity" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblCountry" EntityType="XEPRModel.Store.tblCountry" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblDepartment" EntityType="XEPRModel.Store.tblDepartment" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblEmployee" EntityType="XEPRModel.Store.tblEmployee" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblManager" EntityType="XEPRModel.Store.tblManager" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblRating" EntityType="XEPRModel.Store.tblRating" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblState" EntityType="XEPRModel.Store.tblState" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblSubmitAssessment" EntityType="XEPRModel.Store.tblSubmitAssessment" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'XEPR.dbo.tblAdmin' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="tblAdmin">
+    <Key>
+      <PropertyRef Name="UserName" />
+      <PropertyRef Name="Password" />
+    </Key>
+    <Property Name="UserName" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="Password" Type="nvarchar" Nullable="false" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="tblAssessment">
+    <Key>
+      <PropertyRef Name="AssessmentId" />
+    </Key>
+    <Property Name="AssessmentId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AssessmentTitle" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="Description" Type="text" />
+    <Property Name="CreatedBy" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedDateTime" Type="datetime" Nullable="false" />
+    <Property Name="ModifiedDateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblAssessmentDetail">
+    <Key>
+      <PropertyRef Name="AssessmentDetailId" />
+    </Key>
+    <Property Name="AssessmentDetailId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AssessmentId" Type="int" Nullable="false" />
+    <Property Name="EmpWinId" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="RatingId" Type="int" Nullable="false" />
+    <Property Name="ManagerWinId" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Comment" Type="text" Nullable="false" />
+    <Property Name="CreatedDateTime" Type="datetime" Nullable="false" />
+    <Property Name="ModifiedDateTime" Type="datetime" Nullable="false" />
+    <Property Name="Manager_Comment" Type="text" />
+    <Property Name="Manager_RatingId" Type="int" />
+  </EntityType>
+  <EntityType Name="tblCity">
+    <Key>
+      <PropertyRef Name="CityId" />
+    </Key>
+    <Property Name="CityId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="StateId" Type="int" Nullable="false" />
+    <Property Name="CityName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblCountry">
+    <Key>
+      <PropertyRef Name="CountryId" />
+    </Key>
+    <Property Name="CountryId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CountryName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblDepartment">
+    <Key>
+      <PropertyRef Name="DepartmentId" />
+    </Key>
+    <Property Name="DepartmentId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="DepartmentName" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="Description" Type="text" />
+    <Property Name="IsSelected" Type="bit" Nullable="false" />
+    <Property Name="CreatedBy" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedDateTime" Type="datetime" Nullable="false" />
+    <Property Name="ModifiedDateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblEmployee">
+    <Key>
+      <PropertyRef Name="EmployeeId" />
+    </Key>
+    <Property Name="EmployeeId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EmpWinId" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="ManagerWinId" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+    <Property Name="DOB" Type="datetime" Nullable="false" />
+    <Property Name="Gender" Type="char" Nullable="false" MaxLength="10" />
+    <Property Name="DOJ" Type="datetime" Nullable="false" />
+    <Property Name="DepartmentId" Type="int" Nullable="false" />
+    <Property Name="CityId" Type="int" Nullable="false" />
+    <Property Name="CountryId" Type="int" Nullable="false" />
+    <Property Name="StateId" Type="int" Nullable="false" />
+    <Property Name="Address" Type="text" Nullable="false" />
+    <Property Name="EmailAddress" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="MobileNo" Type="bigint" Nullable="false" />
+    <Property Name="CreatedBy" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedDateTime" Type="datetime" Nullable="false" />
+    <Property Name="ModifiedDateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblManager">
+    <Key>
+      <PropertyRef Name="ManagerId" />
+    </Key>
+    <Property Name="ManagerId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="ManagerWinId" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+    <Property Name="DOB" Type="datetime" Nullable="false" />
+    <Property Name="Gender" Type="char" Nullable="false" MaxLength="10" />
+    <Property Name="DOJ" Type="datetime" Nullable="false" />
+    <Property Name="CityId" Type="int" Nullable="false" />
+    <Property Name="CountryId" Type="int" Nullable="false" />
+    <Property Name="StateId" Type="int" Nullable="false" />
+    <Property Name="Address" Type="text" Nullable="false" />
+    <Property Name="EmailAddress" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="MobileNo" Type="bigint" Nullable="false" />
+    <Property Name="DepartmentId" Type="int" Nullable="false" />
+    <Property Name="CreatedBy" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedDateTime" Type="datetime" Nullable="false" />
+    <Property Name="ModifiedDateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblRating">
+    <Key>
+      <PropertyRef Name="RatingId" />
+    </Key>
+    <Property Name="RatingId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RatingText" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="RatingValue" Type="numeric" Nullable="false" />
+    <Property Name="Description" Type="text" />
+    <Property Name="IsSelected" Type="bit" Nullable="false" />
+    <Property Name="CreatedBy" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedDateTime" Type="datetime" Nullable="false" />
+    <Property Name="ModifiedDateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblState">
+    <Key>
+      <PropertyRef Name="StateId" />
+    </Key>
+    <Property Name="StateId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CountryId" Type="int" Nullable="false" />
+    <Property Name="StateName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblSubmitAssessment">
+    <Key>
+      <PropertyRef Name="SubmitAssessmentId" />
+    </Key>
+    <Property Name="SubmitAssessmentId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EmpWinId" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="ManagerWinId" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="IsEmployeeSubmitted" Type="bit" Nullable="false" />
+    <Property Name="IsManagerSubmitted" Type="bit" Nullable="false" />
+    <Property Name="SubmittedDateByEmployee" Type="datetime" Nullable="false" />
+    <Property Name="SubmittedDateByManager" Type="datetime" />
+  </EntityType>
+</Schema>

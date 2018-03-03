@@ -1,0 +1,6 @@
+D:\Projects\AsyncawaitDemo\AsyncawaitDemo\bin\Debug\AsyncawaitDemo.exe.config
+D:\Projects\AsyncawaitDemo\AsyncawaitDemo\bin\Debug\AsyncawaitDemo.exe
+D:\Projects\AsyncawaitDemo\AsyncawaitDemo\bin\Debug\AsyncawaitDemo.pdb
+D:\Projects\AsyncawaitDemo\AsyncawaitDemo\obj\Debug\AsyncawaitDemo.csprojResolveAssemblyReference.cache
+D:\Projects\AsyncawaitDemo\AsyncawaitDemo\obj\Debug\AsyncawaitDemo.exe
+D:\Projects\AsyncawaitDemo\AsyncawaitDemo\obj\Debug\AsyncawaitDemo.pdb

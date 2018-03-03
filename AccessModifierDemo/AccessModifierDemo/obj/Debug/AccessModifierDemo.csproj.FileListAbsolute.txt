@@ -1,0 +1,6 @@
+D:\Projects\AccessModifierDemo\AccessModifierDemo\bin\Debug\AccessModifierDemo.exe.config
+D:\Projects\AccessModifierDemo\AccessModifierDemo\obj\Debug\AccessModifierDemo.csprojResolveAssemblyReference.cache
+D:\Projects\AccessModifierDemo\AccessModifierDemo\bin\Debug\AccessModifierDemo.exe
+D:\Projects\AccessModifierDemo\AccessModifierDemo\bin\Debug\AccessModifierDemo.pdb
+D:\Projects\AccessModifierDemo\AccessModifierDemo\obj\Debug\AccessModifierDemo.exe
+D:\Projects\AccessModifierDemo\AccessModifierDemo\obj\Debug\AccessModifierDemo.pdb

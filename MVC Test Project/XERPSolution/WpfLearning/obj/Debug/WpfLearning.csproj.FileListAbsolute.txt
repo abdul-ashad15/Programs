@@ -1,0 +1,26 @@
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\bin\Debug\WpfLearning.exe.config
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\bin\Debug\WpfLearning.exe
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\bin\Debug\WpfLearning.pdb
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.csprojResolveAssemblyReference.cache
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\obj\Debug\MainWindow.baml
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\obj\Debug\MainWindow.g.cs
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\obj\Debug\App.g.cs
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning_MarkupCompile.cache
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.g.resources
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.Properties.Resources.resources
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.csproj.GenerateResource.Cache
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.exe
+E:\XAPI\XEPRProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.pdb
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\bin\Debug\WpfLearning.exe.config
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\bin\Debug\WpfLearning.exe
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\bin\Debug\WpfLearning.pdb
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.csprojResolveAssemblyReference.cache
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\obj\Debug\MainWindow.baml
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\obj\Debug\MainWindow.g.cs
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\obj\Debug\App.g.cs
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning_MarkupCompile.cache
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.g.resources
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.Properties.Resources.resources
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.csproj.GenerateResource.Cache
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.exe
+D:\MVC Work\SampleProject\XERPSolution\WpfLearning\obj\Debug\WpfLearning.pdb

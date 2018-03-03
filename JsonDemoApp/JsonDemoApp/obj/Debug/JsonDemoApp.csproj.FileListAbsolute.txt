@@ -1,0 +1,7 @@
+D:\Projects\JsonDemoApp\JsonDemoApp\bin\Debug\JsonDemoApp.exe.config
+D:\Projects\JsonDemoApp\JsonDemoApp\bin\Debug\JsonDemoApp.exe
+D:\Projects\JsonDemoApp\JsonDemoApp\bin\Debug\JsonDemoApp.pdb
+D:\Projects\JsonDemoApp\JsonDemoApp\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\JsonDemoApp\JsonDemoApp\obj\Debug\JsonDemoApp.csprojResolveAssemblyReference.cache
+D:\Projects\JsonDemoApp\JsonDemoApp\obj\Debug\JsonDemoApp.exe
+D:\Projects\JsonDemoApp\JsonDemoApp\obj\Debug\JsonDemoApp.pdb

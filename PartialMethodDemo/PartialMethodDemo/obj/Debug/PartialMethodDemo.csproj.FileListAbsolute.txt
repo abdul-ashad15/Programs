@@ -1,0 +1,6 @@
+D:\Projects\PartialMethodDemo\PartialMethodDemo\bin\Debug\PartialMethodDemo.exe.config
+D:\Projects\PartialMethodDemo\PartialMethodDemo\bin\Debug\PartialMethodDemo.exe
+D:\Projects\PartialMethodDemo\PartialMethodDemo\bin\Debug\PartialMethodDemo.pdb
+D:\Projects\PartialMethodDemo\PartialMethodDemo\obj\Debug\PartialMethodDemo.csprojResolveAssemblyReference.cache
+D:\Projects\PartialMethodDemo\PartialMethodDemo\obj\Debug\PartialMethodDemo.exe
+D:\Projects\PartialMethodDemo\PartialMethodDemo\obj\Debug\PartialMethodDemo.pdb

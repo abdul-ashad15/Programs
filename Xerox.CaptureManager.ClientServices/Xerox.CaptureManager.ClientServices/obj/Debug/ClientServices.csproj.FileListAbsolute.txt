@@ -1,0 +1,7 @@
+D:\Projects\Xerox.CaptureManager.ClientServices\Xerox.CaptureManager.ClientServices\bin\Debug\ClientServices.dll
+D:\Projects\Xerox.CaptureManager.ClientServices\Xerox.CaptureManager.ClientServices\bin\Debug\ClientServices.pdb
+D:\Projects\Xerox.CaptureManager.ClientServices\Xerox.CaptureManager.ClientServices\obj\Debug\ClientServices.csprojResolveAssemblyReference.cache
+D:\Projects\Xerox.CaptureManager.ClientServices\Xerox.CaptureManager.ClientServices\obj\Debug\ClientServices.dll
+D:\Projects\Xerox.CaptureManager.ClientServices\Xerox.CaptureManager.ClientServices\obj\Debug\ClientServices.pdb
+D:\Projects\Xerox.CaptureManager.ClientServices\Xerox.CaptureManager.ClientServices\bin\Debug\XeroxCopyrightYearSpan.dll
+D:\Projects\Xerox.CaptureManager.ClientServices\Xerox.CaptureManager.ClientServices\bin\Debug\XeroxCopyrightYearSpan.pdb

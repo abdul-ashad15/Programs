@@ -1,0 +1,7 @@
+D:\Projects\NugetDemo\TestApplication\bin\Debug\TestApplication.exe.config
+D:\Projects\NugetDemo\TestApplication\bin\Debug\TestApplication.exe
+D:\Projects\NugetDemo\TestApplication\bin\Debug\TestApplication.pdb
+D:\Projects\NugetDemo\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+D:\Projects\NugetDemo\TestApplication\obj\Debug\TestApplication.exe
+D:\Projects\NugetDemo\TestApplication\obj\Debug\TestApplication.pdb
+D:\Projects\NugetDemo\TestApplication\bin\Debug\NugetDemo.dll

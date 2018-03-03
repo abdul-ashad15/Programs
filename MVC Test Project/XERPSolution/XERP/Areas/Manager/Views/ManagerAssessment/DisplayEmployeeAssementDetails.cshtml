@@ -1,0 +1,109 @@
+﻿@model List<XEPR.Areas.Manager.Models.ManagerAssessment>
+@{
+    ViewBag.Title = "GetAssesmentLists";
+}
+
+
+<style>
+    textarea
+    {
+        font-family: inherit;
+        width: 905px;
+        font-family: Arial,Helvetica,sans-serif;
+        font-size: 12px;
+    }
+
+    .lblDefault
+    {
+        font-family: Arial,Helvetica,sans-serif;
+        font-size: 16px;
+        font-weight: bolder;
+        color: #FFFFFF;
+        text-align: center;
+        background: url(~/Content/themes/Images/button_roll.gif);
+    }
+
+    .cssFormInput
+    {
+        width: 169px;
+        background-color: #cecece;
+        text-align: left;
+    }
+</style>
+<script language="javascript" type="text/javascript">
+    $(document).ready(function () {
+        var status = "@ViewBag.IsManagerSubmitted"
+
+                  if (status == "True") {
+                      //$("#sbbtn").css("visiblility", "hidden");
+                      document.getElementById('sbbtn').style.display = 'none'
+
+                  }
+                  else {
+                      //$("#txtsbt").css("visiblility", "hidden");
+                      document.getElementById('txtsbt').style.display = 'none'
+                  }
+              });
+
+</script>
+
+
+<div class="topContainer">
+    @*  <div class="firstHeader">Manager Assessment</div>*@
+    @*<div class="topFirstContainer">
+        <div class="lastHeader">Login User: Arvind</div>
+    </div>*@
+</div>
+<br />
+<h2>Employee Performance Review </h2>
+<br />
+
+<table border="1">
+    @using (Html.BeginForm("SaveAssessment", "ManagerAssessment", FormMethod.Post))
+    
+    {  
+        
+        <tr>
+            <th style="padding-left: 50px;">Manager's Assessment</th>
+            <th>Employee's Self Assessment</th>
+        </tr>
+        for (int i = 0; i < Model.Count; i++)
+       
+        {
+        <tr>
+            <td style="background-color: #cecece; font-family: Arial,Helvetica,sans-serif; padding-left: 50px;">
+                @Html.HiddenFor(modelItem => Model[i].AssessmentId)
+                <b>Assessment Title :</b> @Html.DisplayFor(modelItem => Model[i].AssessmentTitle)
+                <br />
+                <br />
+                <b>Assessment Description:</b>@Html.TextAreaFor(modelItem => Model[i].AssessmentDescription, new { @Readonly = "", @style = "width:400px;height:25px" })
+                <b>Rating:</b> @Html.DropDownListFor(modelItem => Model[i].Manager_RatingId, Model[i].Rating)
+                <br />
+                <br />
+                <b>Comment:</b> @Html.TextAreaFor(modelItem => Model[i].Manager_Comment, new { @style = "width:400px;height:100px" })
+            </td>
+            <td style="background-color: #cecece; font-family: Arial,Helvetica,sans-serif;">
+                @Html.HiddenFor(modelItem => Model[i].AssessmentId)
+                <b>Assessment Title :</b> @Html.DisplayFor(modelItem => Model[i].AssessmentTitle)
+                <br />
+                <br />
+                <b>Assessment Description:</b>@Html.TextAreaFor(modelItem => Model[i].AssessmentDescription, new { @Readonly = "", @style = "width:400px;height:25px" })
+                <b>Rating:</b> @Html.DropDownListFor(modelItem => Model[i].RatingId, Model[i].Rating, new { disabled = "true" })
+                <br />
+                <br />
+                <b>Comment:</b> @Html.TextAreaFor(modelItem => Model[i].Comment, new { @Readonly = "", @style = "width:400px;height:100px" })
+            </td>
+        </tr>      
+        } 
+        <tr>
+            <td colspan=2 style="text-align: center"><input type="hidden" name="EmpWinId" value="@Request.QueryString["EmpWinId"]"/>
+                <span id="sbbtn">
+                    <input type="submit" id="Save" value="Save" name="action"  />
+                    <input type="submit" id="Submit" value="Submit" name="action" />
+                </span>
+
+                <span id="txtsbt"> <label>Manager is Submitted Employee Assessment Successfully !!!</label></span>               
+              </td>   
+        </tr>        
+    }
+</table>

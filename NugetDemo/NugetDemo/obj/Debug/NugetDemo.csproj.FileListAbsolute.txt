@@ -1,0 +1,5 @@
+D:\Projects\NugetDemo\NugetDemo\bin\Debug\NugetDemo.dll
+D:\Projects\NugetDemo\NugetDemo\bin\Debug\NugetDemo.pdb
+D:\Projects\NugetDemo\NugetDemo\obj\Debug\NugetDemo.dll
+D:\Projects\NugetDemo\NugetDemo\obj\Debug\NugetDemo.pdb
+D:\Projects\NugetDemo\NugetDemo\obj\Debug\NugetDemo.csprojResolveAssemblyReference.cache

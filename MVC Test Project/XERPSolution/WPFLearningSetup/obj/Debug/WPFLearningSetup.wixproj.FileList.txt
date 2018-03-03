@@ -1,0 +1,8 @@
+E:\XAPI\XEPRProject\XERPSolution\WPFLearningSetup\bin\Debug\WPFLearningSetup.msi
+E:\XAPI\XEPRProject\XERPSolution\WPFLearningSetup\bin\Debug\WPFLearningSetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WPFLearningSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\WPFLearningSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WPFLearningSetup.wixproj.BindBuiltOutputsFileListnull.txt
+D:\MVC Work\SampleProject\XERPSolution\WPFLearningSetup\bin\Debug\WPFLearningSetup.msi
+D:\MVC Work\SampleProject\XERPSolution\WPFLearningSetup\bin\Debug\WPFLearningSetup.wixpdb

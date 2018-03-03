@@ -1,0 +1,51 @@
+﻿@model XEPR.Models.tblDepartment
+
+@{
+    ViewBag.Title = "ModifyDepartment";
+}
+
+<h2>Modify Department</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>tblDepartment</legend>
+
+        @Html.HiddenFor(model => model.DepartmentId)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DepartmentName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DepartmentName)
+            @Html.ValidationMessageFor(model => model.DepartmentName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Description)
+        </div>
+        <div class="editor-field">
+            @Html.TextAreaFor(model => model.Description)
+            @Html.ValidationMessageFor(model => model.Description)
+        </div>
+       @* <div class="editor-label">
+            @Html.LabelFor(model => model.CreatedBy)
+        </div>*@
+       @* <div class="editor-field">
+            @Html.EditorFor(model => model.CreatedBy)
+            @Html.ValidationMessageFor(model => model.CreatedBy)
+        </div>*@
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+     @Html.ActionLink("Back to Department List", "GetDepartmentList","Department",new { area="Administrator"},null)
+</div>
+@section Scripts 
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

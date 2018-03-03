@@ -1,0 +1,73 @@
+﻿@model IEnumerable<XEPR.Models.tblAssessment>
+
+@{
+    ViewBag.Title = "GetAssessmentList";
+}
+
+<h2>Assessment List View</h2>
+
+<p>
+      @Html.ActionLink("Create New Assessment", "CreateAssessment", "Assessment",new{style="font-weight:bold;"})
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AssessmentTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedDateTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ModifiedDateTime)
+        </th>
+        <th>
+            Edit
+        </th>
+        <th>
+            Details
+        </th>
+        <th>
+          Delete
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AssessmentTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedDateTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ModifiedDateTime)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "ModifyAssessment", new { id=item.AssessmentId }) 
+            </td>
+        <td>
+            @Html.ActionLink("Details", "GetAssessment", new { id=item.AssessmentId })
+            </td>
+        <td> 
+            @Html.ActionLink("Delete", "DeleteAssessment", new { id=item.AssessmentId }, new { onclick="return confirm('Are you sure to delete record?');" })
+        </td>
+    </tr>
+}
+
+</table>
+<div>
+     @Html.ActionLink("Back to Home Page", "AdminPage","Home")
+   @* @Html.ActionLink("Back to Home Page", "AdminPage","Home",new{style="font-weight:bold;"})*@
+</div>

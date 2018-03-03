@@ -1,0 +1,6 @@
+D:\Projects\Immutable\Immutable\bin\Debug\Immutable.exe.config
+D:\Projects\Immutable\Immutable\bin\Debug\Immutable.exe
+D:\Projects\Immutable\Immutable\bin\Debug\Immutable.pdb
+D:\Projects\Immutable\Immutable\obj\Debug\Immutable.csprojResolveAssemblyReference.cache
+D:\Projects\Immutable\Immutable\obj\Debug\Immutable.exe
+D:\Projects\Immutable\Immutable\obj\Debug\Immutable.pdb

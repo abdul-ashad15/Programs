@@ -1,0 +1,6 @@
+D:\Projects\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\AnonymousTypeDemo.exe.config
+D:\Projects\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\AnonymousTypeDemo.csprojResolveAssemblyReference.cache
+D:\Projects\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\AnonymousTypeDemo.exe
+D:\Projects\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\AnonymousTypeDemo.pdb
+D:\Projects\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\AnonymousTypeDemo.exe
+D:\Projects\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\AnonymousTypeDemo.pdb

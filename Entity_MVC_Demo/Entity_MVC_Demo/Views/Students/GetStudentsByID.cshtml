@@ -1,0 +1,29 @@
+﻿@model Entity_MVC_Demo.Models.Students
+@{
+    ViewBag.Title = "GetStudentsByID";
+}
+
+<h2>GetStudentsByID</h2>
+
+
+
+<table border="1">
+    <tr>
+        <td><b>ID:</b></td>
+        <td>
+            @Model.ID
+        </td>
+    </tr>
+    <tr>
+        <td><b>Name:</b></td>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <td><b>Gender:</b></td>
+        <td>@Model.Gender</td>
+    </tr>
+    <tr>
+        <td><b>Fees:</b></td>
+        <td>@Model.Fees</td>
+    </tr>
+</table>

@@ -1,0 +1,10 @@
+E:\XAPI\XEPRProject\XERPSolution\AngularLearningProj\bin\AngularLearningProj.dll
+E:\XAPI\XEPRProject\XERPSolution\AngularLearningProj\bin\AngularLearningProj.pdb
+E:\XAPI\XEPRProject\XERPSolution\AngularLearningProj\obj\Debug\AngularLearningProj.csprojResolveAssemblyReference.cache
+E:\XAPI\XEPRProject\XERPSolution\AngularLearningProj\obj\Debug\AngularLearningProj.dll
+E:\XAPI\XEPRProject\XERPSolution\AngularLearningProj\obj\Debug\AngularLearningProj.pdb
+D:\MVC Work\SampleProject\XERPSolution\AngularLearningProj\bin\AngularLearningProj.dll
+D:\MVC Work\SampleProject\XERPSolution\AngularLearningProj\bin\AngularLearningProj.pdb
+D:\MVC Work\SampleProject\XERPSolution\AngularLearningProj\obj\Debug\AngularLearningProj.csprojResolveAssemblyReference.cache
+D:\MVC Work\SampleProject\XERPSolution\AngularLearningProj\obj\Debug\AngularLearningProj.dll
+D:\MVC Work\SampleProject\XERPSolution\AngularLearningProj\obj\Debug\AngularLearningProj.pdb

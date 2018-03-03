@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "Learning Page";
+}
+
+<h2>Learning Page</h2>
+<script src="~/Scripts/jquery-2.1.1.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Country").change(function () {
+            var Id = $("#Country").val();  //if user select the tournament 
+            //var url = 'PersonalInfo/BindState';
+            var url = '@Url.Action("BindState", "Learning")'
+            var data1 = { "CountryId": Id };
+            $.post(url, data1, function (data) {    //ajax call
+                var items = [];
+                items.push("<option value=" + 0 + ">" + "-Select-" + "</option>"); //first item
+                for (var i = 0; i < data.length; i++) {
+                    items.push("<option value=" + data[i].Value + ">" + data[i].Text + "</option>");
+                }                                         //all data from the team table push into array
+                $("#State").html(items.join(' '));
+
+            });                                            //array object bind to dropdown list
+        });
+
+        $("#State").change(function () {
+            var Id = $("#State").val();
+            var url = '@Url.Action("BindCity", "Learning")'
+            var data1 = { "StateId": Id };
+            $.post(url, data1, function (data) {    //ajax call
+                var items = [];
+                items.push("<option value=" + 0 + ">" + "-Select-" + "</option>"); //first item
+                for (var i = 0; i < data.length; i++) {
+                    items.push("<option value=" + data[i].Value + ">" + data[i].Text + "</option>");
+                }                                         //all data from the team table push into array
+                $("#City").html(items.join(' '));
+
+            });                                            //array object bind to dropdown list
+
+        });
+
+        //Save Data
+            $("#Save").click(function () {
+                //alert("Comming...");
+                var url = '@Url.Action("Save", "Learning")';
+                var data1 = "";
+                $.get(url, data1, function (data) {    //ajax call
+                    alert("Record Save Successfully");
+                });                                            //array object bind to dropdown list
+
+            });
+    });
+
+</script>
+
+@using (Html.BeginForm("Save", "Learning", FormMethod.Get))
+{
+
+    <div>
+        <table>
+            <tr>
+                <td>Country, State and City Binding using JQuery</td>
+            </tr>
+            <tr>
+                <td class="column">Country </td>
+                <td class="column">@Html.DropDownList("Country", "-Select-")</td>
+
+            </tr>
+            <tr>
+                <td class="column">State </td>
+                <td class="column">@Html.DropDownList("State", "-Select-")</td>
+            </tr>
+            <tr>
+                <td class="column">City </td>
+                <td class="column">@Html.DropDownList("City", "-Select-")</td>
+            </tr>
+
+            <tr>
+                <td colspan="2">
+
+                    <input type="submit" value="Save" id="Save" />
+                </td>
+            </tr>
+
+        </table>
+    </div>
+}
+

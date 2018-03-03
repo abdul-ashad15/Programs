@@ -1,0 +1,6 @@
+D:\Projects\DependencyInjectionDemo1\DependencyInjectionDemo1\bin\Debug\DependencyInjectionDemo1.exe.config
+D:\Projects\DependencyInjectionDemo1\DependencyInjectionDemo1\bin\Debug\DependencyInjectionDemo1.exe
+D:\Projects\DependencyInjectionDemo1\DependencyInjectionDemo1\bin\Debug\DependencyInjectionDemo1.pdb
+D:\Projects\DependencyInjectionDemo1\DependencyInjectionDemo1\obj\Debug\DependencyInjectionDemo1.csprojResolveAssemblyReference.cache
+D:\Projects\DependencyInjectionDemo1\DependencyInjectionDemo1\obj\Debug\DependencyInjectionDemo1.exe
+D:\Projects\DependencyInjectionDemo1\DependencyInjectionDemo1\obj\Debug\DependencyInjectionDemo1.pdb

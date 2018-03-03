@@ -1,0 +1,130 @@
+﻿@model List<XEPR.Areas.Employee.Models.EmployeeAssessment>
+
+@{
+    ViewBag.Title = "GetAssesmentList";
+}
+
+<style>
+    textarea
+    {
+        font-family: inherit;
+        width: 905px;
+        font-family: Arial,Helvetica,sans-serif;
+        font-size: 12px;
+    }
+
+    .lblDefault
+    {
+        font-family: Arial,Helvetica,sans-serif;
+        font-size: 16px;
+        font-weight: bolder;
+        color: #FFFFFF;
+        text-align: center;
+        background: url(~/Content/themes/Images/button_roll.gif);
+    }
+
+    .cssFormInput
+    {
+        width: 169px;
+        background-color: #cecece;
+        text-align: left;
+    }
+
+    hr
+    {
+        border: 1px dotted #ff0000;
+        border-style: none none dotted;
+        color: #fff;
+        background-color: #fff;
+    }
+</style>
+
+<link href="~/Content/StyleNew.css" rel="stylesheet" />
+
+ <script language="javascript" type="text/javascript">
+     $(document).ready(function () {
+         var status = "@ViewBag.IsEmployeeSubmitted"
+         if (status == "True") {
+             //document.getElementById('Save').disabled = true;
+             //document.getElementById('sbt').disabled = true;
+             document.getElementById('sbtbtn').style = "visibility:hidden";
+         }
+         else {
+             document.getElementById('txtsbt').style = "visibility:hidden";
+             document.getElementById('linktxt').style = "visibility:hidden";
+         }
+     });
+
+    </script>
+
+
+<table border="1" cellpadding="1" cellspacing="0" style="width:933px">
+
+@using (Html.BeginForm("SaveAssessment", "EmployeeAssessment", FormMethod.Post))
+{
+<tr class="lblDefault"><td colspan="2" style="background-color:gray;text-align:center;"><div style="font-weight:bold;height: 30px;">Employee Assessment Form</div></td></tr>
+    
+    if (Model != null && Model.Count > 0)
+    {
+
+        for (var i = 0; i < Model.Count; i++)
+        {
+    
+    <tr>
+          
+        <td style="background-color:#cecece;width:900px;font-family:Arial,Helvetica,sans-serif; font-weight:bold" align="left" class="textarea" >
+            Assessment Title:
+            @Html.HiddenFor(modelItem => Model[i].AssessmentId)
+            @Html.DisplayFor(modelItem => Model[i].AssessmentTitle)
+        </td>
+        </tr>
+    <tr>
+        <td>Summary:</td>
+    </tr>
+        <tr>
+        <td style="background-color:#cecece;width:933px ;font-family:Arial,Helvetica,sans-serif;" align="left";>
+            @Html.TextAreaFor(modelItem => Model[i].AssessmentDescription, new { @readonly = "readonly", rows = "6", cols = "16" })
+        </td>
+            </tr>
+    
+    <tr>
+        <td>Rating:</td>
+    </tr>
+            <tr>
+        <td style="background-color:#cecece;width:900px;font-family:Arial,Helvetica,sans-serif;" align="left" class="cssFormInput" >
+            @Html.DropDownListFor(modelItem => Model[i].RatingId, Model[i].Rating)
+
+            @*@Html.DropDownList("RatingId", (SelectList)ViewBag.ddlRating)*@
+            @*@Html.DropDownListFor(modelItem => Model[i].RatingId, (SelectList)ViewBag.ddlRating)*@
+        </td>
+                </tr>
+    
+    <tr>
+        <td>Employee Comment:</td>
+    </tr>
+        <tr>
+        <td style="background-color:#cecece;width:900px;font-family:Arial,Helvetica,sans-serif;" align="left">
+            @Html.TextAreaFor(modelItem => Model[i].Comment, new { rows = "6", cols = "16" })
+        </td>
+
+       
+    </tr>
+      
+        }
+    }
+
+<tr>
+    <td colspan="4" style="background-color:#cecece;" align="Center" class="style1">
+       <span id="sbtbtn" > <input type="submit" id="Save" value="Save" name="action" />
+        <input type="submit" id="Submit" value="Submit" name="action"  />
+        </span>
+        <span id="txtsbt" ><label>Your Assessment alredy Submitted For Manager Approval</label></span>
+        <span id="linktxt"> @Html.ActionLink("Get Manager review", "GetManagerReviewForEmployee", "ManagerReview")</span>
+       
+    </td>
+
+    
+</tr>
+}
+
+</table>

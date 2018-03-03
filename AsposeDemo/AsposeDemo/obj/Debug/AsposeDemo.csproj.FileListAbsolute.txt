@@ -1,0 +1,7 @@
+D:\Projects\AsposeDemo\AsposeDemo\bin\Debug\AsposeDemo.exe.config
+D:\Projects\AsposeDemo\AsposeDemo\bin\Debug\AsposeDemo.exe
+D:\Projects\AsposeDemo\AsposeDemo\bin\Debug\AsposeDemo.pdb
+D:\Projects\AsposeDemo\AsposeDemo\bin\Debug\Aspose.BarCode.dll
+D:\Projects\AsposeDemo\AsposeDemo\obj\Debug\AsposeDemo.csprojResolveAssemblyReference.cache
+D:\Projects\AsposeDemo\AsposeDemo\obj\Debug\AsposeDemo.exe
+D:\Projects\AsposeDemo\AsposeDemo\obj\Debug\AsposeDemo.pdb

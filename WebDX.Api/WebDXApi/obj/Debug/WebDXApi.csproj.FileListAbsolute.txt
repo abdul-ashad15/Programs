@@ -1,0 +1,5 @@
+D:\Projects\WebDX.Api\WebDXApi\bin\Debug\WebDXApi.dll
+D:\Projects\WebDX.Api\WebDXApi\bin\Debug\WebDXApi.pdb
+D:\Projects\WebDX.Api\WebDXApi\obj\Debug\WebDXApi.csprojResolveAssemblyReference.cache
+D:\Projects\WebDX.Api\WebDXApi\obj\Debug\WebDXApi.dll
+D:\Projects\WebDX.Api\WebDXApi\obj\Debug\WebDXApi.pdb

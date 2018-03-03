@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Admin Home Page";
+}
+
+<h2>@ViewBag.Message</h2>
+<div>
+    Admin Home page allow to manage employee, manager, Rating, Department and Assessment details.
+</div>
+<ol class="round">
+    <li>
+        @Html.ActionLink("Manage Rating", "CreateRating", "Rating")
+    </li>
+
+    <li>
+        @Html.ActionLink("Manage Department", "GetDepartmentList", "Department")
+    </li>
+
+    <li>
+        @Html.ActionLink("Manage Manager", "CreateManager", "Manager")
+    </li>
+
+    <li>
+        @Html.ActionLink("Manage Employee", "GetEmployeeList", "Employee")
+    </li>
+    <li>
+        @Html.ActionLink("Manage Assessment", "CreateAssessment", "Assessment")
+    </li>
+</ol>

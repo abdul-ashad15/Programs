@@ -1,0 +1,24 @@
+﻿@model IEnumerable<MVCDemoApplication.Models.Employee>
+@{
+    ViewBag.Title = "EmployeeJson";
+}
+
+<h2>EmployeeJson</h2>
+
+
+@foreach(var employee in Model)
+{
+    <div>
+        @Html.Label("Employee ID")
+    </div>
+    <div>
+        @employee.EmployeeId
+    </div>
+    <div>
+        @Html.Label("Employee Name")
+    </div>
+    <div>
+       @employee.EmployeeName
+    </div>
+
+}

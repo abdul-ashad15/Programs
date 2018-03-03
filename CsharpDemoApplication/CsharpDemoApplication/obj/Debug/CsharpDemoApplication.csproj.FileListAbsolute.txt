@@ -1,0 +1,5 @@
+D:\Projects\CsharpDemoApplication\CsharpDemoApplication\bin\Debug\InterfaceDemo.exe.config
+D:\Projects\CsharpDemoApplication\CsharpDemoApplication\obj\Debug\InterfaceDemo.exe
+D:\Projects\CsharpDemoApplication\CsharpDemoApplication\obj\Debug\InterfaceDemo.pdb
+D:\Projects\CsharpDemoApplication\CsharpDemoApplication\bin\Debug\InterfaceDemo.exe
+D:\Projects\CsharpDemoApplication\CsharpDemoApplication\bin\Debug\InterfaceDemo.pdb

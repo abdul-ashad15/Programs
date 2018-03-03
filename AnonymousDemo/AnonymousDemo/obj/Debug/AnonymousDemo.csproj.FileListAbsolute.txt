@@ -1,0 +1,6 @@
+D:\Projects\AnonymousDemo\AnonymousDemo\bin\Debug\AnonymousDemo.exe.config
+D:\Projects\AnonymousDemo\AnonymousDemo\bin\Debug\AnonymousDemo.exe
+D:\Projects\AnonymousDemo\AnonymousDemo\bin\Debug\AnonymousDemo.pdb
+D:\Projects\AnonymousDemo\AnonymousDemo\obj\Debug\AnonymousDemo.csprojResolveAssemblyReference.cache
+D:\Projects\AnonymousDemo\AnonymousDemo\obj\Debug\AnonymousDemo.exe
+D:\Projects\AnonymousDemo\AnonymousDemo\obj\Debug\AnonymousDemo.pdb

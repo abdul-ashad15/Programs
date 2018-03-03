@@ -1,0 +1,20 @@
+﻿@model MVCDemoApplication.Models.Employee
+
+@Html.ActionLink("EmployeeJson", "EmployeeJson", "Employees")
+@{
+    ViewBag.Title = "GetEmployees";
+}
+
+<h2>Employee ID : @Model.EmployeeId</h2>
+
+<h2>Employee Name : @Model.EmployeeName</h2>
+
+@Html.Label("Employee Name")
+
+@Html.LabelFor( m => m.EmployeeName)
+
+
+@Html.ActionLink("LinkTExt", "About","Home")
+
+@ViewData["Hello"]
+

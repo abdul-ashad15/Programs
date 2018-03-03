@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - Xerox Employee Performance Review</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/themes/base/css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/jqueryval")
+</head>
+<body>
+    <header>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p class="site-title">Manager - Xerox Employee Performance Review</p>
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        <img src="~/Images/Xerox_Logo.jpg" alt="Test" />
+                    </section>
+                    <nav>
+                        <ul id="menu">
+                            @if (Session["ManagerLogin"] != null)
+                             {
+                                    <li><div>Welcome:</div> @Session["ManagerLogin"].ToString()</li>
+                                 <li>@Html.ActionLink("Log Off", "LogOff", "Manager")</li>
+                             }
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+    <div id="body">
+        @RenderSection("featured", required: false)
+        <section class="content-wrapper main-content clear-fix">
+                @RenderBody()
+            </section>
+    </div>
+    <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; @DateTime.Now.Year - Xerox Business Services India Private Limited .</p>
+                </div>
+            </div>
+        </footer>
+
+    @*@Scripts.Render("~/bundles/jquery"))*@
+    @RenderSection("scripts", required: false)
+</body>
+</html>

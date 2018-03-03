@@ -1,0 +1,90 @@
+﻿@model List<XEPR.Models.EmployeeAssessment>
+
+@{
+    ViewBag.Title = "GetAssesmentList";
+}
+
+<style>
+    textarea
+    {
+        font-family: inherit;
+        width: 905px;
+        font-family: Arial,Helvetica,sans-serif;
+        font-size: 12px;
+    }
+
+    .lblDefault
+    {
+        font-family: Arial,Helvetica,sans-serif;
+        font-size: 16px;
+        font-weight: bolder;
+        color: #FFFFFF;
+        text-align: center;
+        background: url(~/Content/themes/Images/button_roll.gif);
+    }
+
+    .cssFormInput
+    {
+        width: 169px;
+        background-color: #cecece;
+        text-align: left;
+    }
+</style>
+
+<link href="~/Content/StyleNew.css" rel="stylesheet" />
+
+<div class="topContainer" >
+            <div class="firstHeader">Employee Assessment</div>
+                <div class="topFirstContainer">
+                   <div class="lastHeader">Login User:Pabitra</div>
+                    </div>
+                
+                
+                 </div>
+<br />
+<br />
+
+<table border="1" cellpadding="1" cellspacing="0" style="width:933px">
+
+@using (Html.BeginForm("SaveAssessment", "EmployeeAssessment", FormMethod.Post))
+{
+<tr class="lblDefault"><td colspan="2" style="background-color:gray;text-align:center;"><div style="font-weight:bold;height: 30px;">Employee Assessment Form</div></td></tr>
+    
+    for (int i = 0; i < Model.Count; i++)
+    //foreach (var item in Model)
+    {
+    
+    
+    <tr>
+      
+        <td style="background-color:#cecece;width:900px;font-family:Arial,Helvetica,sans-serif; font-weight:bold" align="left" class="textarea" >
+            @Html.HiddenFor(modelItem => Model[i].AssessmentId)
+            @Html.DisplayFor(modelItem => Model[i].AssessmentTitle)
+        </td>
+        </tr>
+        <tr>
+        <td style="background-color:#cecece;width:933px ;font-family:Arial,Helvetica,sans-serif;" align="left";>
+            @Html.TextAreaFor(modelItem => Model[i].AssessmentDescription)
+        </td>
+            </tr>
+            <tr>
+        <td style="background-color:#cecece;width:900px;font-family:Arial,Helvetica,sans-serif;" align="left" class="cssFormInput" >
+           
+            Rating: @Html.DropDownList("RatingId", Model[i].Rating)</td>
+                </tr>
+        <tr>
+        <td style="background-color:#cecece;width:900px;font-family:Arial,Helvetica,sans-serif;" align="left">
+                       @Html.TextAreaFor(modelItem => Model[i].Comment)
+        </td>
+        
+    </tr>
+    }
+
+<tr>
+    <td colspan="4" style="background-color:#cecece;" align="Right" class="style1">
+        <input type="submit" value="Save" style="background-image:url(~/Content/themes/Images/button_roll.gif); border-style:none;width:98px; height:27px;"  />
+    </td>
+</tr>
+}
+
+</table>

@@ -1,0 +1,72 @@
+﻿@model XEPR.Models.CustomManagerView
+
+@{
+    ViewBag.Title = "GetManager";
+}
+
+<h2>Manager Details</h2>
+<fieldset>
+    <legend>Manager</legend>
+     <table>
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.ManagerWinId)</td>
+             <td> @Html.DisplayFor(model => model.ManagerWinId)</td>
+         </tr>
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.FirstName)</td>
+             <td> @Html.DisplayFor(model => model.FirstName)</td>
+         </tr>
+         <tr>
+             <td>  @Html.DisplayNameFor(model => model.LastName)</td>
+             <td> @Html.DisplayFor(model => model.LastName)</td>
+         </tr>         
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.DOB)</td>
+             <td> @Html.DisplayFor(model => model.DOB)</td>
+         </tr>
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.Gender)</td>
+             <td> @Html.DisplayFor(model => model.Gender)</td>
+         </tr>
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.DOJ)</td>
+             <td> @Html.DisplayFor(model => model.DOJ)</td>
+         </tr>
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.Address)</td>
+             <td> @Html.DisplayFor(model => model.Address)</td>
+         </tr>
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.EmailAddress)</td>
+             <td> @Html.DisplayFor(model => model.EmailAddress)</td>
+         </tr>
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.MobileNo)</td>
+             <td> @Html.DisplayFor(model => model.MobileNo)</td>
+         </tr>
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.DepartmentId)</td>
+             <td>  @Html.DisplayFor(model => model.Department)</td>
+         </tr>
+          <tr>
+             <td> @Html.DisplayNameFor(model => model.CountryId)</td>
+             <td> @Html.DisplayFor(model => model.CountryId)</td>
+         </tr> 
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.StateId)</td>
+             <td> @Html.DisplayFor(model => model.StateId)</td>
+         </tr>     
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.CityId)</td>
+             <td> @Html.DisplayFor(model => model.CityId)</td>
+         </tr>     
+
+         <tr>
+             <td> @Html.DisplayNameFor(model => model.CreatedBy)</td>
+             <td> @Html.DisplayFor(model => model.CreatedBy)</td>
+         </tr>       
+      </table>  
+</fieldset>
+<p>
+   @Html.ActionLink("Back To Manager List", "GetManagerList", "Manager")
+</p>

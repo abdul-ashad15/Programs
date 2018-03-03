@@ -1,0 +1,2 @@
+D:\Projects\LearningFakes\UnitTests\Fakes\LearningFakes.fakes : warning : Cannot generate shim for LearningFakes.IUpgradeService: type is an interface.
+D:\Projects\LearningFakes\UnitTests\Fakes\LearningFakes.fakes : warning : Cannot generate shim for LearningFakes.IWDEImages: type is an interface.

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DataSet>
+  <Document DocType="Document" DCN="Document1" StoredDocType="Document" AllowRescan="False" AllowReclassify="False" APIVersion="4.0.1.0">
+    <Image ImageType="ImageType1" ImageName="Money exchange.jpg" IsSnippet="False" Modified="False" />
+    <Session User="WebDX Project Manager" Task="Test" Mode="Create" Status="None" SessionID="1" StartTime="2017-04-17T16:16:23.190+05:30" EndTime="2017-04-17T16:16:23.468+05:30" Duration="P0Y0M0DT0H0M0.2776395S" />
+  </Document>
+  <Document DocType="Document" DCN="Document2" StoredDocType="Document" AllowRescan="False" AllowReclassify="False" APIVersion="4.0.1.0">
+    <Image ImageType="ImageType1" ImageName="image.tif" IsSnippet="False" Modified="False" />
+    <Session User="WebDX Project Manager" Task="Test" Mode="Create" Status="None" SessionID="1" StartTime="2017-04-17T16:16:23.190+05:30" EndTime="2017-04-17T16:16:23.468+05:30" Duration="P0Y0M0DT0H0M0.2776395S" />
+  </Document>
+</DataSet>
